@@ -14,9 +14,9 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 
 News
 ======
-1. Sep, 2024 One paper is accepted by EMNLP'24.
-1. Jul, 2024 One paper is accepted by ACMMM'24.
-1. May, 2024 One paper is accepted by ACL'24.
+*. Sep, 2024   One paper is accepted by EMNLP'24.
+*. Jul, 2024   One paper is accepted by ACMMM'24.
+*. May, 2024   One paper is accepted by ACL'24.
 
 
 Selected Publications
