@@ -24,6 +24,21 @@ News :rocket::rocket::rocket:
 * [May, 2023] :sunflower: One paper "KURIT-Net" is accepted by TNNLS'23
 * [Jul, 2021] &nbsp; :sunflower: One paper "GCFM" is accepted by TKDE'21
 
+<div>
+  <div style="width: 50%; float: left;">
+    * [Sep, 2024] 
+    * [Sep, 2024] 
+    * [Sep, 2024] 
+    * [Sep, 2024] 
+    * [Sep, 2024] 
+    * [Sep, 2024] 
+    
+  </div>
+  <div style="width: 50%; float: left;">
+    第二列内容...
+  </div>
+</div>
+
 
 Selected Publications :rocket::rocket::rocket:
 ======
