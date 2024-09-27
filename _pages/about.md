@@ -13,6 +13,7 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 
 
 News
+
 ====================================
 * Sep, 2024   One paper "HiCore" is accepted by EMNLP'24. 
 * Jul, 2024   One paper "CoMoRec" is accepted by ACM MM'24. 
@@ -25,6 +26,7 @@ News
 * Jul, 2021   One paper "GCFM" is accepted by TKDE'21
 
 Selected Publications
+
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
