@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me :star::star::star:"
 author_profile: true
 redirect_from: 
   - /about/
@@ -23,7 +23,7 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 * [Jul, 2021] &nbsp :sunflower: One paper "GCFM" is accepted by TKDE'21
 
 
-<font size="5">Selected Publications</font>
+<font size="5">Selected Publications :rocket::rocket::rocket:</font>
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
