@@ -17,9 +17,9 @@ News
 * Sep, 2024   One paper "HiCore" is accepted by EMNLP'24. 
 * Jul, 2024   One paper "CoMoRec" is accepted by ACM MM'24. 
 * May, 2024   One paper "HyCoRec" is accepted by ACL'24.
-* Dec, 2023   Two papers "FacetCRS" and "A Restructured Causal Approach" are accepted by AAAI'23
+* Dec, 2023   Two papers "FacetCRS" and "Restructured SCM framework" are accepted by AAAI'23
 * Oct, 2023   One paper "HutCRS" is accepted by EMNLP'23
-* Jul, 2023   One paper "An Order-Complexity Aesthetic Assessment Model" is accepted by ACM MM'23
+* Jul, 2023   One paper "Aesthetic Assessment Model" is accepted by ACM MM'23
 * Jul, 2023   One paper "CIPL" is accepted by TNNLS'23
 * May, 2023   One paper "KURIT-Net" is accepted by TNNLS'23
 * Jul, 2021   One paper "GCFM" is accepted by TKDE'21
