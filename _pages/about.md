@@ -13,7 +13,7 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 
 
 News
-======
+====================================
 * Sep, 2024   One paper "HiCore" is accepted by EMNLP'24. 
 * Jul, 2024   One paper "CoMoRec" is accepted by ACM MM'24. 
 * May, 2024   One paper "HyCoRec" is accepted by ACL'24.
