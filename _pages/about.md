@@ -26,13 +26,12 @@ News :rocket::rocket::rocket:
 
 <div>
   <div style="width: 50%; float: left;">
+    * [Sep, 2024] \\
+    * [Sep, 2024] \\
+    * [Sep, 2024] \br
+    * [Sep, 2024] \br
     * [Sep, 2024] 
     * [Sep, 2024] 
-    * [Sep, 2024] 
-    * [Sep, 2024] 
-    * [Sep, 2024] 
-    * [Sep, 2024] 
-    
   </div>
   <div style="width: 50%; float: left;">
     第二列内容...
