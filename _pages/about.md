@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Fellow in the College of Computing and Data Science at Nanyang Technological University, Singapore, and the National Centre for Research in Digital Trust (DTC), Singapore, working with [Prof. Lam Kwok Yan](https://personal.ntu.edu.sg/kwokyan.lam/). 
+I am currently a Research Fellow in the College of Computing and Data Science at Nanyang Technological University, Singapore, and also with the National Centre for Research in Digital Trust (DTC), Singapore, working with [Prof. Lam Kwok Yan](https://personal.ntu.edu.sg/kwokyan.lam/). 
 
 Prior to that, I obtained my Ph.D. degree in the School of Computer Science and Engineering at Sun Yat-sen University, advised by [Prof. Liang Lin](http://www.linliang.net/) in [HCP-I2 Lab](https://www.sysu-hcp.net/home/). I also possess a wealth of experience in the corporate world. Concretely, I have ever interned at [Huawei](https://www.huawei.com/cn/?ic_medium=direct&ic_source=surlent), worked at [Tencent](https://www.tencent.com/en-us/), and served as a senior technical consultant at [SenseTime](https://www.sensetime.com/en).
 
