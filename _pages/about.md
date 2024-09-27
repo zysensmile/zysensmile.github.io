@@ -18,7 +18,7 @@ News :rocket::rocket::rocket:
 * [Jul, 2024] &nbsp; :sunflower: One paper "CoMoRec" is accepted by ACM MM'24. 
 * [May, 2024] :sunflower: One paper "HyCoRec" is accepted by ACL'24.
 * [Dec, 2023] :sunflower: Two papers "FacetCRS" and "Causal Approach" are accepted by AAAI'24
-* [Oct, 2023] :sunflower: One paper "HutCRS" is accepted by EMNLP'23
+* [Oct, 2023] &nbsp; :sunflower: One paper "HutCRS" is accepted by EMNLP'23
 * [Jul, 2023] &nbsp; :sunflower: One paper "Aesthetic Assessment Model" is accepted by ACM MM'23
 * [Jul, 2023] &nbsp; :sunflower: One paper "CIPL" is accepted by TNNLS'23
 * [May, 2023] :sunflower: One paper "KURIT-Net" is accepted by TNNLS'23
