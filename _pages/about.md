@@ -12,9 +12,8 @@ I am currently a Research Fellow in the College of Computing and Data Science at
 Prior to that, I obtained my Ph.D. degree in the School of Computer Science and Engineering at Sun Yat-sen University, advised by [Prof. Liang Lin](http://www.linliang.net/) in [HCP-I2 Lab](https://www.sysu-hcp.net/home/). I also possess a wealth of experience in the corporate world. Concretely, I have ever interned at [Huawei](https://www.huawei.com/cn/?ic_medium=direct&ic_source=surlent), worked at [Tencent](https://www.tencent.com/en-us/), and served as a senior technical consultant at [SenseTime](https://www.sensetime.com/en).
 
 
-News
-
-====================================
+<font size="5">News</font>
+======
 * Sep, 2024   One paper "HiCore" is accepted by EMNLP'24. 
 * Jul, 2024   One paper "CoMoRec" is accepted by ACM MM'24. 
 * May, 2024   One paper "HyCoRec" is accepted by ACL'24.
@@ -26,7 +25,6 @@ News
 * Jul, 2021   One paper "GCFM" is accepted by TKDE'21
 
 Selected Publications
-
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
