@@ -13,6 +13,8 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 
 
 <font size="5">News :rocket::rocket::rocket:</font>
+News :rocket::rocket::rocket:
+=====
 * [Sep, 2024] :sunflower: One paper "HiCore" is accepted by EMNLP'24. 
 * [Jul, 2024] :sunflower: One paper "CoMoRec" is accepted by ACM MM'24. 
 * [May, 2024] :sunflower: One paper "HyCoRec" is accepted by ACL'24.
