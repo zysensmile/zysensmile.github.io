@@ -14,7 +14,7 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 
 News :rocket::rocket::rocket:
 ======
-* Sep, 2024 &ensp; :sunflower: <p align="left">One paper "HiCore" is accepted by EMNLP'24.</p> 
+<div> * Sep, 2024 &ensp; :sunflower: <p align="left">One paper "HiCore" is accepted by EMNLP'24.</p> </div>
 * Jul, 2024 &emsp; :sunflower: <p align="left">One paper "CoMoRec" is accepted by ACM MM'24. </p>
 * May, 2024 &ensp; :sunflower: <p align="left">One paper "HyCoRec" is accepted by ACL'24.</p>
 * Dec, 2023 &ensp; :sunflower: <p align="left">Two papers "FacetCRS" and "Causal Approach" are accepted by AAAI'24</p>
