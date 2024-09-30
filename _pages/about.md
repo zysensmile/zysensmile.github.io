@@ -26,7 +26,7 @@ News :rocket::rocket::rocket:
 
 
 <div>
-<div style="text-align: left; display: inline-block;">Sep, 2024</div>
+<div style="text-align: left; display: inline-block;">Sep, 2024; Sep, 2024;</div>
 <div style="text-align: right; display: inline-block; margin-left: 10px;">One paper "HiCore" is accepted by EMNLP'24.</div>
 </div>
 
