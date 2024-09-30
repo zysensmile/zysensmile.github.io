@@ -14,21 +14,16 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 
 News :rocket::rocket::rocket:
 ======
-<div> * Sep, 2024 &ensp; :sunflower: <p align="left">One paper "HiCore" is accepted by EMNLP'24.</p> </div>
-* Jul, 2024 &emsp; :sunflower: <p align="left">One paper "CoMoRec" is accepted by ACM MM'24. </p>
-* May, 2024 &ensp; :sunflower: <p align="left">One paper "HyCoRec" is accepted by ACL'24.</p>
-* Dec, 2023 &ensp; :sunflower: <p align="left">Two papers "FacetCRS" and "Causal Approach" are accepted by AAAI'24</p>
-* Oct, 2023 &ensp; :sunflower: <p align="left">One paper "HutCRS" is accepted by EMNLP'23</p>
-* Jul, 2023 &emsp; :sunflower: <p align="left">One paper "Aesthetic Assessment Model" is accepted by ACM MM'23</p>
-* Jul, 2023 &emsp; :sunflower: <p align="left">One paper "CIPL" is accepted by TNNLS'23</p>
-* May, 2023 &ensp; :sunflower: <p align="left">One paper "KURIT-Net" is accepted by TNNLS'23</p>
-* Jul, 2021 &ensp; &ensp; :sunflower: One paper "GCFM" is accepted by TKDE'21</p>
+* Sep, 2024 &ensp; :sunflower: One paper "HiCore" is accepted by EMNLP'24.
+* Jul, 2024 &emsp; :sunflower: One paper "CoMoRec" is accepted by ACM MM'24. 
+* May, 2024 &ensp; :sunflower: One paper "HyCoRec" is accepted by ACL'24.
+* Dec, 2023 &ensp; :sunflower: Two papers "FacetCRS" and "Causal Approach" are accepted by AAAI'24
+* Oct, 2023 &ensp; :sunflower: One paper "HutCRS" is accepted by EMNLP'23
+* Jul, 2023 &emsp; :sunflower: One paper "Aesthetic Assessment Model" is accepted by ACM MM'23
+* Jul, 2023 &emsp; :sunflower: One paper "CIPL" is accepted by TNNLS'23
+* May, 2023 &ensp; :sunflower: One paper "KURIT-Net" is accepted by TNNLS'23
+* Jul, 2021 &ensp; &ensp; :sunflower: One paper "GCFM" is accepted by TKDE'21
 
-
-<div>
-<div style="text-align: left; display: inline-block;">Sep, 2024; Sep, 2024;</div>
-<div style="text-align: right; display: inline-block; margin-left: 10px;">One paper "HiCore" is accepted by EMNLP'24.</div>
-</div>
 
 Selected Publications :rocket::rocket::rocket:
 ======
