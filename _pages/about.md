@@ -24,6 +24,12 @@ News :rocket::rocket::rocket:
 * May, 2023 &ensp; :sunflower: <p align="left">One paper "KURIT-Net" is accepted by TNNLS'23</p>
 * Jul, 2021 &ensp; &ensp; :sunflower: One paper "GCFM" is accepted by TKDE'21</p>
 
+
+<div>
+<div style="text-align: left; display: inline-block;">Sep, 2024</div>
+<div style="text-align: right; display: inline-block; margin-left: 10px;">One paper "HiCore" is accepted by EMNLP'24.</div>
+</div>
+
 Selected Publications :rocket::rocket::rocket:
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
