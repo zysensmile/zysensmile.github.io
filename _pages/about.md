@@ -33,7 +33,6 @@ Latest News
 <p align="left">Jul, 2023 &emsp; 🚀 One paper "CIPL" is accepted by TNNLS'23</p>
 <p align="left">May, 2023 &ensp; 🚀 One paper "KURIT-Net" is accepted by TNNLS'23</p>
 <p align="left">Jul, 2021 &emsp; 🚀 One paper "GCFM" is accepted by TKDE'21</p>
-
 <br><br>
 
 Recent and Selected Papers
