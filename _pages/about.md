@@ -7,9 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Fellow in the College of Computing and Data Science at the Nanyang Technological University (NTU), Singapore, and also with the National Centre for Research in Digital Trust (Digital Trust Centre (DTC)), Singapore, working with [Prof. Kwok-Yan Lam](https://personal.ntu.edu.sg/kwokyan.lam/). My research interests include Human-AI Dialogue System, Conversational Recommender System, Natural Language Processing, Knowledge Graphs, Large Language Models, and AI Safety.
+Yongsen Zheng
+======
 
-Prior to that, I obtained my Ph.D. degree in the School of Computer Science and Engineering at Sun Yat-sen University, advised by [Prof. Liang Lin](http://www.linliang.net/) in [HCP-I2 Lab](https://www.sysu-hcp.net/home/). I also possess a wealth of experience in the corporate world. Concretely, I have ever interned at [Huawei](https://www.huawei.com/cn/?ic_medium=direct&ic_source=surlent), worked at [Tencent](https://www.tencent.com/en-us/), and served as a senior technical consultant at [SenseTime](https://www.sensetime.com/en).
+<p align="left">
+I am currently a Research Fellow in the College of Computing and Data Science at the Nanyang Technological University (NTU), Singapore, and also with the National Centre for Research in Digital Trust (Digital Trust Centre (DTC)), Singapore, working with <a href="https://personal.ntu.edu.sg/kwokyan.lam/">Prof. Kwok-Yan Lam</a>. 
+</p>
+
+<p align="left">
+Prior to that, I obtained my Ph.D. degree in the School of Computer Science and Engineering at Sun Yat-sen University, advised by <a href="http://www.linliang.net/">Prof. Liang Lin</a> in <a href="https://www.sysu-hcp.net/home/">HCP-I2 Lab</a>. I also possess a wealth of experience in the corporate world. Concretely, I have ever interned at <a href="https://www.huawei.com/cn/?ic_medium=direct&ic_source=surlent">Huawei</a>, worked at <a href="https://www.tencent.com/en-us/">Tencent</a>, and served as a senior technical consultant at <a href="https://www.sensetime.com/en">SenseTime</a>.
+</p>
+
+<p align="left"><strong>Research Interests:</strong> My research interests include Human-AI Dialogue System, Conversational Recommender System, Natural Language Processing, Knowledge Graphs, Large Language Models, and AI Safety.</p> 
+
+* Human-AI Dialogue System; Conversational Recommender System; 
+* Conversational Recommender System; Knowledge Graphs
+* Natural Language Processing; Large Language Models
 
 
 Latest News :rocket::rocket::rocket:
