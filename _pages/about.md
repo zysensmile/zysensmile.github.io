@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me :star::star::star:"
+title: "Yongsen Zheng"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Yongsen Zheng
-======
 
 <p align="left">
 I am currently a Research Fellow in the College of Computing and Data Science at the Nanyang Technological University (NTU), Singapore, and also with the National Centre for Research in Digital Trust (Digital Trust Centre (DTC)), Singapore, working with <a href="https://personal.ntu.edu.sg/kwokyan.lam/">Prof. Kwok-Yan Lam</a>. 
