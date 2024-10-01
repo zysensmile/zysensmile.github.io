@@ -20,9 +20,10 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 * Human-AI Dialogue System; Conversational Recommender System; 
 * Conversational Recommender System; Knowledge Graphs
 * Natural Language Processing; Large Language Models
+<br><br>
 
-
-<p style="font-size: 28px; font-style: italic; font-weight: bold;">Latest News</p>
+Latest News
+======
 <p align="left">Sep, 2024 &ensp; 🚀 One paper "HiCore" is accepted by EMNLP'24.</p>
 <p align="left">Jul, 2024 &emsp; 🚀 One paper "CoMoRec" is accepted by ACM MM'24.</p>
 <p align="left">May, 2024 &ensp; 🚀 One paper "HyCoRec" is accepted by ACL'24.</p>
@@ -33,9 +34,10 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 <p align="left">May, 2023 &ensp; 🚀 One paper "KURIT-Net" is accepted by TNNLS'23</p>
 <p align="left">Jul, 2021 &emsp; 🚀 One paper "GCFM" is accepted by TKDE'21</p>
 
+<br><br>
 
-
-<p style="font-size: 28px; font-style: italic; font-weight: bold;">Recent and Selected Papers</p>
+Recent and Selected Papers
+======
 <p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Guohua Wang, Liang Lin, Kwok-Yan Lam, “Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2024.<a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left"><strong>Yongsen Zheng</strong>, Guohua Wang, Yang Liu, Liang Lin, “Diversity Matters: User-Centric Multi-Interest Learning for
