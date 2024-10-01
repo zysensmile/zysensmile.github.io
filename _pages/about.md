@@ -20,7 +20,8 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 * Human-AI Dialogue System; Conversational Recommender System; 
 * Conversational Recommender System; Knowledge Graphs
 * Natural Language Processing; Large Language Models
-<br><br>
+
+<br>
 
 Latest News
 ======
@@ -34,7 +35,7 @@ Latest News
 <p align="left">May, 2023 &ensp; 🚀 One paper "KURIT-Net" is accepted by TNNLS'23</p>
 <p align="left">Jul, 2021 &emsp; 🚀 One paper "GCFM" is accepted by TKDE'21</p>
 
-<br><br>
+<br>
 
 Recent and Selected Papers
 ======
