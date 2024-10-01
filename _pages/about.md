@@ -16,15 +16,14 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 </p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt ><strong>Research Interests</strong></font>
-<p align="left"><strong>Research Interests:</strong> My research interests include Human-AI Dialogue System, Conversational Recommender System, Natural Language Processing, Knowledge Graphs, Large Language Models, and AI Safety.</p> 
+My research interests include Human-AI Dialogue System, Conversational Recommender System, Natural Language Processing, Knowledge Graphs, Large Language Models, and AI Safety.</p> 
 
 * Human-AI Dialogue System; Conversational Recommender System; 
 * Conversational Recommender System; Knowledge Graphs
 * Natural Language Processing; Large Language Models
 
 
-Latest News
-======
+
 <font face="Helvetica" color="Cadetblue" size=5pt ><strong>Latest News</strong></font>
 <p align="left">Sep, 2024 &ensp; 🚀 One paper "HiCore" is accepted by EMNLP'24.</p>
 <p align="left">Jul, 2024 &emsp; 🚀 One paper "CoMoRec" is accepted by ACM MM'24.</p>
@@ -37,8 +36,7 @@ Latest News
 <p align="left">Jul, 2021 &emsp; 🚀 One paper "GCFM" is accepted by TKDE'21</p>
 
 
-Recent and Selected Papers
-======
+
 <font face="Helvetica" color="Cadetblue" size=5pt ><strong>Recent and Selected Papers</strong></font>
 <p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Guohua Wang, Liang Lin, Kwok-Yan Lam, “Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2024.<a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
