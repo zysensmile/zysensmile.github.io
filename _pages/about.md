@@ -25,6 +25,19 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 * Natural Language Processing; Large Language Models
 
 
+
+Latest News
+======
+<p align="left">Sep, 2024 &ensp; 🚀 One paper "HiCore" is accepted by EMNLP'24.</p>
+<p align="left">Jul, 2024 &emsp; 🚀 One paper "CoMoRec" is accepted by ACM MM'24.</p>
+<p align="left">May, 2024 &ensp; 🚀 One paper "HyCoRec" is accepted by ACL'24.</p>
+<p align="left">Dec, 2023 &ensp; 🚀 Two papers "FacetCRS" and "Causal Approach" are accepted by AAAI'24</p>
+<p align="left">Oct, 2023 &ensp; 🚀 One paper "HutCRS" is accepted by EMNLP'23</p>
+<p align="left">Jul, 2023 &emsp; 🚀 One paper "Aesthetic Assessment Model" is accepted by ACM MM'23</p>
+<p align="left">Jul, 2023 &emsp; 🚀 One paper "CIPL" is accepted by TNNLS'23</p>
+<p align="left">May, 2023 &ensp; 🚀 One paper "KURIT-Net" is accepted by TNNLS'23</p>
+<p align="left">Jul, 2021 &emsp; 🚀 One paper "GCFM" is accepted by TKDE'21</p>
+
 Latest News :rocket::rocket::rocket:
 ======
 * Sep, 2024 &ensp; :sunflower: One paper "HiCore" is accepted by EMNLP'24.
