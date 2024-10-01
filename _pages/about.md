@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<p style="font-size: 28px; font-style: italic; font-weight: bold;">Yongsen Zheng</p>
-
 <p align="left">
 I am currently a Research Fellow in the College of Computing and Data Science at the Nanyang Technological University (NTU), Singapore, and also with the National Centre for Research in Digital Trust (Digital Trust Centre (DTC)), Singapore, working with <a href="https://personal.ntu.edu.sg/kwokyan.lam/">Prof. Kwok-Yan Lam</a>. 
 </p>
@@ -25,7 +23,6 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 
 
 <p style="font-size: 28px; font-style: italic; font-weight: bold;">Latest News</p>
-<div>
 <p align="left">Sep, 2024 &ensp; 🚀 One paper "HiCore" is accepted by EMNLP'24.</p>
 <p align="left">Jul, 2024 &emsp; 🚀 One paper "CoMoRec" is accepted by ACM MM'24.</p>
 <p align="left">May, 2024 &ensp; 🚀 One paper "HyCoRec" is accepted by ACL'24.</p>
@@ -35,12 +32,10 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 <p align="left">Jul, 2023 &emsp; 🚀 One paper "CIPL" is accepted by TNNLS'23</p>
 <p align="left">May, 2023 &ensp; 🚀 One paper "KURIT-Net" is accepted by TNNLS'23</p>
 <p align="left">Jul, 2021 &emsp; 🚀 One paper "GCFM" is accepted by TKDE'21</p>
-</div>
 
 
 
 <p style="font-size: 28px; font-style: italic; font-weight: bold;">Recent and Selected Papers</p>
-<div>
 <p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Guohua Wang, Liang Lin, Kwok-Yan Lam, “Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2024.<a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left"><strong>Yongsen Zheng</strong>, Guohua Wang, Yang Liu, Liang Lin, “Diversity Matters: User-Centric Multi-Interest Learning for
@@ -64,4 +59,4 @@ Personalized Recommendation”, IEEE Transactions on Knowledge and Data Engineer
 <p align="left">Mingjie Qian, <strong>Yongsen Zheng*</strong>, Jinghui Qin, Liang Lin, “HutCRS: Hierarchical User-Interest Tracking for Conversational Recommender System”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2024.<a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Xin Jin, Wu Zhou, Jinyu Wang, Duo Xu, <strong>Yongsen Zheng*</strong>, “An Order-Complexity Aesthetic Assessment Model for Aesthetic-aware Music Recommendation”, Proc. of ACM International Conference on Multimedia (ACM MM), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
-</div>
+
