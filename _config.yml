@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Yongsen Zheng / Welcome to My Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yongsen Zheng"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "zysensmile/zysensmile.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Time is everything"
+  name             : "Time is life and everything"
   pronouns         : # example: "she/her"  
-  bio              : I can, I will
+  bio              : Talk Is Cheap, Just Do It at This Moment
   location         : "Singapore"
   employer         : "Nanyang Technological University"
   uri              : # URL
