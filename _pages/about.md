@@ -15,7 +15,7 @@ I am currently a Research Fellow in the College of Computing and Data Science at
 Prior to that, I obtained my Ph.D. degree in the School of Computer Science and Engineering at Sun Yat-sen University, advised by <a href="http://www.linliang.net/">Prof. Liang Lin</a> in <a href="https://www.sysu-hcp.net/home/">HCP-I2 Lab</a>. I also possess a wealth of experience in the corporate world. Concretely, I have ever interned at <a href="https://www.huawei.com/cn/?ic_medium=direct&ic_source=surlent">Huawei</a>, worked at <a href="https://www.tencent.com/en-us/">Tencent</a>, and served as a senior technical consultant at <a href="https://www.sensetime.com/en">SenseTime</a>.
 </p>
 
-<font face="Helvetica" color="#00dddd;" size=5pt ><strong>Research Interests</strong></font>
+<font face="Helvetica" color="Cadetblue" size=5pt ><strong>Research Interests</strong></font>
 <p align="left"><strong>Research Interests:</strong> My research interests include Human-AI Dialogue System, Conversational Recommender System, Natural Language Processing, Knowledge Graphs, Large Language Models, and AI Safety.</p> 
 
 * Human-AI Dialogue System; Conversational Recommender System; 
@@ -25,7 +25,7 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 
 Latest News
 ======
-<font face="Helvetica" color="#00dddd;" size=5pt ><strong>Latest News</strong></font>
+<font face="Helvetica" color="Cadetblue" size=5pt ><strong>Latest News</strong></font>
 <p align="left">Sep, 2024 &ensp; 🚀 One paper "HiCore" is accepted by EMNLP'24.</p>
 <p align="left">Jul, 2024 &emsp; 🚀 One paper "CoMoRec" is accepted by ACM MM'24.</p>
 <p align="left">May, 2024 &ensp; 🚀 One paper "HyCoRec" is accepted by ACL'24.</p>
@@ -39,7 +39,7 @@ Latest News
 
 Recent and Selected Papers
 ======
-<font face="Helvetica" color="#00dddd;" size=5pt ><strong>Recent and Selected Papers</strong></font>
+<font face="Helvetica" color="Cadetblue" size=5pt ><strong>Recent and Selected Papers</strong></font>
 <p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Guohua Wang, Liang Lin, Kwok-Yan Lam, “Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2024.<a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left"><strong>Yongsen Zheng</strong>, Guohua Wang, Yang Liu, Liang Lin, “Diversity Matters: User-Centric Multi-Interest Learning for
