@@ -28,7 +28,7 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 <p align="left">Jul, 2021 &emsp; 🚀 One paper "GCFM" is accepted by TKDE'21</p>
 
 
-<font face="Helvetica" color="Cadetblue" size=5pt ><strong>Recent and Selected Publications</strong></font>
+<font face="Helvetica" color="Cadetblue" size=5pt ><strong>Recent and Selected Papers</strong></font>
 <p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Guohua Wang, Liang Lin, Kwok-Yan Lam, “Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2024.<a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left"><strong>Yongsen Zheng</strong>, Guohua Wang, Yang Liu, Liang Lin, “Diversity Matters: User-Centric Multi-Interest Learning for
