@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hi, Welcome to Yongsen's Personal Homepage"
+title                    : "Zheng Yongsen / My Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yongsen Zheng"
 description              : &description "personal description"
