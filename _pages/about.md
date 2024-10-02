@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="left">
-I am currently a Research Fellow in the College of Computing and Data Science at the Nanyang Technological University (NTU), Singapore, also with the National Centre for Research in Digital Trust (Digital Trust Centre (DTC)), Singapore, and the Singapore AI Safety Institute (AISI), working with <a href="https://personal.ntu.edu.sg/kwokyan.lam/">Prof. Kwok-Yan Lam</a>. 
+I am currently a Research Fellow in the College of Computing and Data Science at the Nanyang Technological University (NTU), Singapore, as well as at the National Centre for Research in Digital Trust, Singapore (Digital Trust Centre Singapore (DTC)), and the Singapore AI Safety Institute (AISI), working with <a href="https://personal.ntu.edu.sg/kwokyan.lam/">Prof. Kwok-Yan Lam</a>. 
 </p>
 
 <p align="left">
