@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Computer Science and Technology, Sun Yat-sen University, 2023
-%* XXX
-%* XXX M.S. in Jekyll, GitHub University, 2014
-%* XXX B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
