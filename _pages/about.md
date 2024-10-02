@@ -16,8 +16,6 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 </p>
 
 
-<font face="Helvetica" color="Cadetblue" size=5pt ><strong>Research Interests</strong></font>
-<p>Human-AI Dialogue System, Conversational Recommender System, Natural Language Processing, Knowledge Graphs, Large Language Models, and AI Safety.</p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt ><strong>Latest News</strong></font>
 <p align="left">Sep, 2024 &ensp; 🚀 One paper "HiCore" is accepted by EMNLP'24.</p>
