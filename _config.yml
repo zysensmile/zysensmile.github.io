@@ -23,9 +23,9 @@ repository               : "zysensmile/zysensmile.github.io"
 
 author:
   # Biographic information
-  avatar           : "profile.png"
+  #avatar           : "profile.png" %也可以使用这个模式，这个模式也不错
   #name             : "Time Is Life and Everything"
-  pronouns         : # example: "she/her"  
+  #pronouns         : # example: "she/her"  
   #bio              : Talk Is Cheap, Just Do It Right Now
   #location         : "Singapore"
   #employer         : "Nanyang Technological University"
