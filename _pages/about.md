@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yongsen Zheng （郑永森）"
+title: "Yongsen Zheng"
 author_profile: true
 redirect_from: 
   - /about/
