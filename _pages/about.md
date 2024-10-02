@@ -16,7 +16,7 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 </p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Research Interests</font>
-<p>Human-AI Dialogue System, Conversational Recommender System, Natural Language Processing, Knowledge Graphs, Large Language Models, and AI Safety.</p>
+<p>Human-AI Dialogue System, Conversational Recommender System, Natural Language Processing, Knowledge Graphs, Large Language Models, AI Safety, and Causal Reasoning.</p>
 
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>
