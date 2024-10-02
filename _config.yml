@@ -25,10 +25,10 @@ author:
   #name             : "Time Is Life and Everything"
   pronouns         : # example: "she/her"  
   bio              : Talk Is Cheap, Just Do It Right Now
-  location         : "Singapore"
-  employer         : "Nanyang Technological University"
-  uri              : # URL
-  email            : "z.yongsensmile@gmail.com" 
+  #location         : "Singapore"
+  #employer         : "Nanyang Technological University"
+  #uri              : # URL
+  #email            : "z.yongsensmile@gmail.com" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
