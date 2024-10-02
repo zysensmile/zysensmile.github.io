@@ -32,12 +32,12 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Recent and Selected Papers</font>
-<p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Guohua Wang, Liang Lin, Kwok-Yan Lam, “Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2024.<a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+<p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Guohua Wang, Liang Lin, Kwok-Yan Lam, “Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left"><strong>Yongsen Zheng</strong>, Guohua Wang, Yang Liu, Liang Lin, “Diversity Matters: User-Centric Multi-Interest Learning for
 Conversational Movie Recommendation”, Proc. of ACM International Conference on Multimedia (ACM MM), 2024. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
 
-<p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Ziliang Chen, Guohua Wang, Mingjie Qian, Jinghui Qin, Liang Lin, “HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation”, Proc. of the Association for Computational Linguistics (ACL), 2024.<a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+<p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Ziliang Chen, Guohua Wang, Mingjie Qian, Jinghui Qin, Liang Lin, “HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation”, Proc. of the Association for Computational Linguistics (ACL), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 
 <p align="left"><strong>Yongsen Zheng</strong>, Ziliang Chen, Jinghui Qin, Liang Lin, “FacetCRS: Multi-Faceted Preference Learning for Pricking Filter Bubbles in Conversational Recommender System”, Proc. of AAAI Conference on Artificial Intelligence (AAAI), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
@@ -52,7 +52,7 @@ Personalized Recommendation”, IEEE Transactions on Knowledge and Data Engineer
 
 <p align="left">Ziliang Chen, <strong>Yongsen Zheng</strong>, Zhao-Rong Lai, Quanlong Guan, Liang Lin, “Diagnosing and Rectifying Fake OOD Invariance: A Restructured Causal Approach”, Proc. of AAAI Conference on Artificial Intelligence (AAAI), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-<p align="left">Mingjie Qian, <strong>Yongsen Zheng*</strong>, Jinghui Qin, Liang Lin, “HutCRS: Hierarchical User-Interest Tracking for Conversational Recommender System”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2023.<a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+<p align="left">Mingjie Qian, <strong>Yongsen Zheng*</strong>, Jinghui Qin, Liang Lin, “HutCRS: Hierarchical User-Interest Tracking for Conversational Recommender System”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Xin Jin, Wu Zhou, Jinyu Wang, Duo Xu, <strong>Yongsen Zheng*</strong>, “An Order-Complexity Aesthetic Assessment Model for Aesthetic-aware Music Recommendation”, Proc. of ACM International Conference on Multimedia (ACM MM), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
