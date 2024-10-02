@@ -22,7 +22,7 @@ repository               : "zysensmile/zysensmile.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Time Is Life and Everything"
+  #name             : "Time Is Life and Everything"
   pronouns         : # example: "she/her"  
   bio              : Talk Is Cheap, Just Do It Right Now
   location         : "Singapore"
