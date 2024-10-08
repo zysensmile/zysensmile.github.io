@@ -52,7 +52,7 @@ Personalized Recommendation”, IEEE Transactions on Knowledge and Data Engineer
 
 <p align="left">Ziliang Chen, <strong>Yongsen Zheng</strong>, Zhao-Rong Lai, Quanlong Guan, Liang Lin, “Diagnosing and Rectifying Fake OOD Invariance: A Restructured Causal Approach”, Proc. of AAAI Conference on Artificial Intelligence (AAAI), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-<p align="left">Mingjie Qian, <strong>Yongsen Zheng*</strong>, Jinghui Qin, Liang Lin, “HutCRS: Hierarchical User-Interest Tracking for Conversational Recommender System”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+<p align="left">Mingjie Qian, <strong>Yongsen Zheng</strong>, Jinghui Qin, Liang Lin, “HutCRS: Hierarchical User-Interest Tracking for Conversational Recommender System”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Xin Jin, Wu Zhou, Jinyu Wang, Duo Xu, <strong>Yongsen Zheng*</strong>, “An Order-Complexity Aesthetic Assessment Model for Aesthetic-aware Music Recommendation”, Proc. of ACM International Conference on Multimedia (ACM MM), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
