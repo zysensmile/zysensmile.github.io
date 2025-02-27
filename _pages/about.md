@@ -40,7 +40,6 @@ Conversational Movie Recommendation”, Proc. of ACM International Conference on
 
 <p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Ziliang Chen, Guohua Wang, Mingjie Qian, Jinghui Qin, Liang Lin, “HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation”, Proc. of the Association for Computational Linguistics (ACL), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-
 <p align="left"><strong>Yongsen Zheng</strong>, Ziliang Chen, Jinghui Qin, Liang Lin, “FacetCRS: Multi-Faceted Preference Learning for Pricking Filter Bubbles in Conversational Recommender System”, Proc. of AAAI Conference on Artificial Intelligence (AAAI), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left"><strong>Yongsen Zheng</strong>, Jinghui Qin, Pengxu Wei, Ziliang Chen, Liang Lin, “CIPL: Counterfactual Interactive Policy Learning to Eliminate Popularity Bias for Online Recommendation”, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), DOI: 10.1109/TNNLS.2023.3299929, 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
