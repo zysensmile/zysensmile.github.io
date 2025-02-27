@@ -54,9 +54,9 @@ Personalized Recommendation”, IEEE Transactions on Knowledge and Data Engineer
 <p align="left">Ziyao Liu, Huanyi Ye, Chen Chen, <strong>Yongsen Zheng*</strong>, Kwok-Yan Lam. “Threats, Attacks, and Defenses in
 Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE OJCS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-<p align="left">Weixing Chen, Yang Liu, Binglin Chen, Jiandong Su, <strong>Yongsen Zheng</strong>, Liang Lin. “Cross-modal Causal Relation Alignment for Video Question Grounding”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
-
 <p align="left">Xin Jin, Wu Zhou, Jinyu Wang, Duo Xu, <strong>Yongsen Zheng*</strong>, “An Order-Complexity Aesthetic Assessment Model for Aesthetic-aware Music Recommendation”, Proc. of ACM International Conference on Multimedia (ACM MM), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
+<p align="left">Weixing Chen, Yang Liu, Binglin Chen, Jiandong Su, <strong>Yongsen Zheng</strong>, Liang Lin. “Cross-modal Causal Relation Alignment for Video Question Grounding”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Ziliang Chen, <strong>Yongsen Zheng</strong>, Zhao-Rong Lai, Quanlong Guan, Liang Lin, “Diagnosing and Rectifying Fake OOD Invariance: A Restructured Causal Approach”, Proc. of AAAI Conference on Artificial Intelligence (AAAI), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
