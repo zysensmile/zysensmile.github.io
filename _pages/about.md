@@ -20,7 +20,8 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>
-<p align="left">Feb, 2025 &ensp; 🔥 One paper "Machine Unlearning Survey" is accepted by IEEE OJCS'25.</p>
+<p align="left">Feb, 2025 &ensp; 🔥 One paper "CRA" is accepted by CVPR'25. </p>
+<p align="left">Feb, 2025 &ensp; 🔥 One paper "Machine Unlearning Survey" is accepted by IEEE OJCS'25. </p>
 <p align="left">Sep, 2024 &ensp; 🔥 One paper "HiCore" is accepted by EMNLP'24.</p>
 <p align="left">Jul, 2024 &emsp; 🔥 One paper "CoMoRec" is accepted by ACM MM'24.</p>
 <p align="left">May, 2024 &ensp; 🔥 One paper "HyCoRec" is accepted by ACL'24.</p>
@@ -52,6 +53,8 @@ Personalized Recommendation”, IEEE Transactions on Knowledge and Data Engineer
 
 <p align="left">Ziyao Liu, Huanyi Ye, Chen Chen, <strong>Yongsen Zheng*</strong>, Kwok-Yan Lam. “Threats, Attacks, and Defenses in
 Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE OJCS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
+<p align="left">Weixing Chen, Yang Liu, Binglin Chen, Jiandong Su, <strong>Yongsen Zheng</strong>, Liang Lin. “Cross-modal Causal Relation Alignment for Video Question Grounding”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Xin Jin, Wu Zhou, Jinyu Wang, Duo Xu, <strong>Yongsen Zheng*</strong>, “An Order-Complexity Aesthetic Assessment Model for Aesthetic-aware Music Recommendation”, Proc. of ACM International Conference on Multimedia (ACM MM), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
