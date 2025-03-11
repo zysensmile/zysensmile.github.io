@@ -20,7 +20,7 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>
-<p align="left">Feb, 2025 &ensp; 🔥 One paper "CRA" is accepted by CVPR'25. </p>
+<p align="left">Feb, 2025 &ensp; 🔥 One paper "CRA-GQA" is accepted by CVPR'25. </p>
 <p align="left">Feb, 2025 &ensp; 🔥 One paper "Machine Unlearning Survey" is accepted by IEEE OJCS'25. </p>
 <p align="left">Sep, 2024 &ensp; 🔥 One paper "HiCore" is accepted by EMNLP'24.</p>
 <p align="left">Jul, 2024 &emsp; 🔥 One paper "CoMoRec" is accepted by ACM MM'24.</p>
