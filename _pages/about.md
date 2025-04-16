@@ -55,7 +55,7 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 
 <p align="left">Xin Jin, Wu Zhou, Jinyu Wang, Duo Xu, <strong>Yongsen Zheng✉</strong>, “An Order-Complexity Aesthetic Assessment Model for Aesthetic-aware Music Recommendation”, Proc. of ACM International Conference on Multimedia (ACM MM), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-<p align="left">Mingjie Qian*, <strong>Yongsen Zheng*</strong>, Jinghui Qin, Liang Lin, “HutCRS: Hierarchical User-Interest Tracking for Conversational Recommender System”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+<p align="left">Mingjie Qian*, <strong>Yongsen Zheng</strong>*, Jinghui Qin, Liang Lin, “HutCRS: Hierarchical User-Interest Tracking for Conversational Recommender System”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Weixing Chen, Yang Liu, Binglin Chen, Jiandong Su, <strong>Yongsen Zheng</strong>, Liang Lin. “Cross-modal Causal Relation Alignment for Video Question Grounding”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
