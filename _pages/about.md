@@ -20,6 +20,7 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>
+<p align="left">May, 2025 &ensp; 🔥 One paper "AlphaAgent" is accepted by KDD'25. </p>
 <p align="left">Feb, 2025 &ensp; 🔥 One paper "CRA" is accepted by CVPR'25. (<font face="Helvetica" color="red">Highlight</font>)</p>
 <p align="left">Feb, 2025 &ensp; 🔥 One paper "Machine Unlearning Survey" is accepted by IEEE OJCS'25. </p>
 <p align="left">Sep, 2024 &ensp; 🔥 One paper "HiCore" is accepted by EMNLP'24.</p>
@@ -56,6 +57,8 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 <p align="left">Xin Jin, Wu Zhou, Jinyu Wang, Duo Xu, <strong>Yongsen Zheng</strong>✉, “An Order-Complexity Aesthetic Assessment Model for Aesthetic-aware Music Recommendation”, Proc. of ACM International Conference on Multimedia (ACM MM), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Mingjie Qian*, <strong>Yongsen Zheng</strong>*, Jinghui Qin, Liang Lin, “HutCRS: Hierarchical User-Interest Tracking for Conversational Recommender System”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
+<p align="left">Ziyi Tang, Zechuan Chen, Jiarui Yang, Jiayao Mai, <strong>Yongsen Zheng</strong>, Keze Wang, Jinrui Chen, Liang Lin. “AlphaAgent: LLM-Driven Alpha Mining with Regularized Exploration to Counteract Alpha Decay”, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Weixing Chen, Yang Liu, Binglin Chen, Jiandong Su, <strong>Yongsen Zheng</strong>, Liang Lin. “Cross-modal Causal Relation Alignment for Video Question Grounding”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
