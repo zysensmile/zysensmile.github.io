@@ -27,7 +27,7 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 <p align="left">Feb, 2025 &ensp; 🔥 One paper "Machine Unlearning Survey" is accepted by IEEE OJCS 2025. </p>
 <p align="left">Sep, 2024 &ensp; 🔥 One paper "HiCore" is accepted by EMNLP 2024. (<font face="Helvetica" color="red">Oral</font>)</p>
 <p align="left">Jul, 2024 &emsp; 🔥 One paper "CoMoRec" is accepted by ACM MM 2024.</p>
-<p align="left">May, 2024 &ensp; 🔥 One paper "HyCoRec" is accepted by ACL 2024.(<font face="Helvetica" color="red">Oral</font>)</p>
+<p align="left">May, 2024 &ensp; 🔥 One paper "HyCoRec" is accepted by ACL 2024. (<font face="Helvetica" color="red">Oral</font>)</p>
 <p align="left">Dec, 2023 &ensp; 🔥 Two papers "FacetCRS" and "Causal Approach" are accepted by AAAI 2024</p>
 <p align="left">Oct, 2023 &ensp; 🔥 One paper "HutCRS" is accepted by EMNLP 2023</p>
 <p align="left">Jul, 2023 &emsp; 🔥 One paper "Aesthetic Assessment Model" is accepted by ACM MM 2023</p>
