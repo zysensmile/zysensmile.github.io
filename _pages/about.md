@@ -20,6 +20,8 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>
+<p align="left">June, 2025 &ensp; 🔥 One paper is accepted by TKDE 2025. </p>
+<p align="left">May, 2025 &ensp; 🔥 Three papers are accepted by ACL 2025. </p>
 <p align="left">May, 2025 &ensp; 🔥 One paper "AlphaAgent" is accepted by KDD'25. </p>
 <p align="left">Feb, 2025 &ensp; 🔥 One paper "CRA" is accepted by CVPR'25. (<font face="Helvetica" color="red">Highlight</font>)</p>
 <p align="left">Feb, 2025 &ensp; 🔥 One paper "Machine Unlearning Survey" is accepted by IEEE OJCS'25. </p>
