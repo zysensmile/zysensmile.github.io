@@ -22,18 +22,18 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>
 <p align="left">Jun, 2025 &ensp; 🔥 One paper is accepted by TKDE 2025. </p>
 <p align="left">May, 2025 &ensp; 🔥 Three papers are accepted by ACL 2025. </p>
-<p align="left">May, 2025 &ensp; 🔥 One paper "AlphaAgent" is accepted by KDD'25. </p>
-<p align="left">Feb, 2025 &ensp; 🔥 One paper "CRA" is accepted by CVPR'25. (<font face="Helvetica" color="red">Highlight</font>)</p>
-<p align="left">Feb, 2025 &ensp; 🔥 One paper "Machine Unlearning Survey" is accepted by IEEE OJCS'25. </p>
-<p align="left">Sep, 2024 &ensp; 🔥 One paper "HiCore" is accepted by EMNLP'24. (<font face="Helvetica" color="red">Oral</font>)</p>
-<p align="left">Jul, 2024 &emsp; 🔥 One paper "CoMoRec" is accepted by ACM MM'24.</p>
-<p align="left">May, 2024 &ensp; 🔥 One paper "HyCoRec" is accepted by ACL'24.(<font face="Helvetica" color="red">Oral</font>)</p>
-<p align="left">Dec, 2023 &ensp; 🔥 Two papers "FacetCRS" and "Causal Approach" are accepted by AAAI'24</p>
-<p align="left">Oct, 2023 &ensp; 🔥 One paper "HutCRS" is accepted by EMNLP'23</p>
-<p align="left">Jul, 2023 &emsp; 🔥 One paper "Aesthetic Assessment Model" is accepted by ACM MM'23</p>
-<p align="left">Jul, 2023 &emsp; 🔥 One paper "CIPL" is accepted by TNNLS'23</p>
-<p align="left">May, 2023 &ensp; 🔥 One paper "KURIT-Net" is accepted by TNNLS'23</p>
-<p align="left">Jul, 2021 &emsp; 🔥 One paper "GCFM" is accepted by TKDE'21</p>
+<p align="left">May, 2025 &ensp; 🔥 One paper "AlphaAgent" is accepted by KDD 2025. </p>
+<p align="left">Feb, 2025 &ensp; 🔥 One paper "CRA" is accepted by CVPR 2025. (<font face="Helvetica" color="red">Highlight</font>)</p>
+<p align="left">Feb, 2025 &ensp; 🔥 One paper "Machine Unlearning Survey" is accepted by IEEE OJCS 2025. </p>
+<p align="left">Sep, 2024 &ensp; 🔥 One paper "HiCore" is accepted by EMNLP 2024. (<font face="Helvetica" color="red">Oral</font>)</p>
+<p align="left">Jul, 2024 &emsp; 🔥 One paper "CoMoRec" is accepted by ACM MM 2024.</p>
+<p align="left">May, 2024 &ensp; 🔥 One paper "HyCoRec" is accepted by ACL 2024.(<font face="Helvetica" color="red">Oral</font>)</p>
+<p align="left">Dec, 2023 &ensp; 🔥 Two papers "FacetCRS" and "Causal Approach" are accepted by AAAI 2024</p>
+<p align="left">Oct, 2023 &ensp; 🔥 One paper "HutCRS" is accepted by EMNLP 2023</p>
+<p align="left">Jul, 2023 &emsp; 🔥 One paper "Aesthetic Assessment Model" is accepted by ACM MM 2023</p>
+<p align="left">Jul, 2023 &emsp; 🔥 One paper "CIPL" is accepted by TNNLS 2023</p>
+<p align="left">May, 2023 &ensp; 🔥 One paper "KURIT-Net" is accepted by TNNLS 2023</p>
+<p align="left">Jul, 2021 &emsp; 🔥 One paper "GCFM" is accepted by TKDE 2021</p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Recent and Selected Papers</font>
 <p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Guohua Wang, Liang Lin, Kwok-Yan Lam, “Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
