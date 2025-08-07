@@ -13,9 +13,9 @@ I am currently a Research Fellow in the College of Computing and Data Science at
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Working Experience</font>
 I also possess a wealth of experience in the corporate world. Concretely, 
-<p align="left">🔥 &ensp; I have ever interned at Huawei &ensp; <a href="https://www.huawei.com/cn/?ic_medium=direct&ic_source=surlent">Huawei</a></p>
-<p align="left">🔥 &ensp; I have ever worked at Tencent &ensp; <a href="https://www.tencent.com/en-us/">Tencent</a></p>
-<p align="left">🔥 &ensp; I have ever served as a senior technical consultant at &ensp; <a href="https://www.sensetime.com/en">SenseTime</a></p>
+<p align="left">🔥 &ensp; I have ever interned at <a href="https://www.huawei.com/cn/?ic_medium=direct&ic_source=surlent">Huawei</a></p>
+<p align="left">🔥 &ensp; I have ever worked at <a href="https://www.tencent.com/en-us/">Tencent</a></p>
+<p align="left">🔥 &ensp; I have ever served as a senior technical consultant at <a href="https://www.sensetime.com/en">SenseTime</a></p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Research Interests</font>
 <p>Human-AI Dialogue System, Conversational Recommender System, Natural Language Processing, Trustworthy AI, AI Safety, Large Language Models, and Causal Reasoning.</p>
