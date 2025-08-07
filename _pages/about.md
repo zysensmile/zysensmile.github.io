@@ -36,6 +36,10 @@ Prior to that, I obtained my Ph.D. degree in the School of Computer Science and 
 <p align="left">Jul, 2021 &emsp; 🔥 One paper "GCFM" is accepted by TKDE 2021</p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Recent and Selected Papers</font>
+<p align="left"><strong>Yongsen Zheng</strong>, Zongxuan Xie, Guohua Wang, Ziyao Liu, Liang Lin, Kwok-Yan Lam, “Why Multi-Interest Fairness Matters: Hypergraph Contrastive Multi-Interest Learning for Fair Conversational Recommender System”, Association for Computational Linguistic (ACL) 2025 <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+ 
+<p align="left"><strong>Yongsen Zheng</strong>, Mingjie Qian, Guohua Wang, Yang Liu, Ziliang Chen, Mingzhi Mao, Liang Lin, Kwok-Yan Lam, “HyperCRS: Hypergraph-Aware Multi-Grained Preference Learning to Burst Filter Bubbles in Conversational Recommendation System”, Association for Computational Linguistic (ACL) 2025 <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
 <p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Guohua Wang, Liang Lin, Kwok-Yan Lam, “Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left"><strong>Yongsen Zheng</strong>, Guohua Wang, Yang Liu, Liang Lin, “Diversity Matters: User-Centric Multi-Interest Learning for
@@ -55,6 +59,8 @@ Personalized Recommendation”, IEEE Transactions on Knowledge and Data Engineer
 
 <p align="left">Ziyao Liu, Huanyi Ye, Chen Chen, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam. “Threats, Attacks, and Defenses in
 Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE OJCS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
+<p align="left">Guohua Wang, Shengping Song, Wuchun He, <strong>Yongsen Zheng</strong>✉, “CMHKF: Cross-Modality Heterogeneous Knowledge Fusion for Weakly Supervised Video Anomaly Detection”, Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Xin Jin, Wu Zhou, Jinyu Wang, Duo Xu, <strong>Yongsen Zheng</strong>✉, “An Order-Complexity Aesthetic Assessment Model for Aesthetic-aware Music Recommendation”, Proc. of ACM International Conference on Multimedia (ACM MM), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
