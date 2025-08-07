@@ -17,8 +17,6 @@ I also possess a wealth of experience in the corporate world. Concretely,
 <p align="left">🔥 &ensp; I have ever worked at Tencent &ensp; <a href="https://www.tencent.com/en-us/">Tencent</a></p>
 <p align="left">🔥 &ensp; I have ever served as a senior technical consultant at &ensp; <a href="https://www.sensetime.com/en">SenseTime</a></p>
 
-I also possess a wealth of experience in the corporate world. Concretely, I have ever interned at Huawei, worked at Tencent, and served as a senior technical consultant at SenseTime.
-
 <font face="Helvetica" color="Cadetblue" size=5pt >Research Interests</font>
 <p>Human-AI Dialogue System, Conversational Recommender System, Natural Language Processing, Trustworthy AI, AI Safety, Large Language Models, and Causal Reasoning.</p>
 
