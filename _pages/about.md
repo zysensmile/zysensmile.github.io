@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 <p align="left">
-I am currently a Research Fellow in the College of Computing and Data Science at the Nanyang Technological University (NTU), Singapore, and also at the National Centre for Research in Digital Trust, Singapore (Digital Trust Centre Singapore (DTC)) as well as at the Singapore AI Safety Institute (AISI), working with <a href="https://personal.ntu.edu.sg/kwokyan.lam/">Prof. Kwok-Yan Lam</a>. Prior to that, I obtained my Ph.D. degree in the School of Computer Science and Engineering at Sun Yat-sen University, advised by IEEE Fellow <a href="http://www.linliang.net/">Prof. Liang Lin</a> in <a href="https://www.sysu-hcp.net/home/">HCP-I2 Lab</a>. I also possess a wealth of experience in the corporate world. Concretely, I have ever interned at <a href="https://www.huawei.com/cn/?ic_medium=direct&ic_source=surlent">Huawei</a>🔥, worked at <a href="https://www.tencent.com/en-us/">Tencent</a>🔥, and served as a senior technical consultant at <a href="https://www.sensetime.com/en">SenseTime</a>🔥.
+I am currently a Research Fellow in the College of Computing and Data Science at the Nanyang Technological University (NTU), Singapore, and also at the National Centre for Research in Digital Trust, Singapore (Digital Trust Centre Singapore (DTC)) as well as at the Singapore AI Safety Institute (AISI), working with <a href="https://personal.ntu.edu.sg/kwokyan.lam/">Prof. Kwok-Yan Lam</a>. Prior to that, I obtained my Ph.D. degree in the School of Computer Science and Engineering at Sun Yat-sen University, advised by IEEE Fellow <a href="http://www.linliang.net/">Prof. Liang Lin</a> in <a href="https://www.sysu-hcp.net/home/">HCP-I2 Lab</a>. I also possess a wealth of experience in the corporate world. 
+</p>
+
+<p align="left">
+Concretely, I have ever interned at <a href="https://www.huawei.com/cn/?ic_medium=direct&ic_source=surlent">Huawei</a>🔥, worked at <a href="https://www.tencent.com/en-us/">Tencent</a>🔥, and served as a senior technical consultant at <a href="https://www.sensetime.com/en">SenseTime</a>🔥.
 </p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Research Interests</font>
