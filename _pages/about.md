@@ -19,6 +19,7 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 <p>Human-AI Dialogue System, Conversational Recommender System, Natural Language Processing, Trustworthy AI, AI Safety, Large Language Models, and Causal Reasoning.</p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>
+<p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by NeurIPS 2025. </p>
 <p align="left">Jun, 2025 &ensp; 🔥 One paper is accepted by TKDE 2025. </p>
 <p align="left">May, 2025 &ensp; 🔥 Three papers are accepted by ACL 2025. </p>
 <p align="left">May, 2025 &ensp; 🔥 One paper "AlphaAgent" is accepted by KDD 2025. </p>
