@@ -19,6 +19,7 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 <p>Human-AI Dialogue System, Conversational Recommender System, Natural Language Processing, Trustworthy AI, AI Safety, Large Language Models, and Causal Reasoning.</p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>
+<p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by TKDE 2025. </p>
 <p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by NeurIPS 2025. </p>
 <p align="left">Jun, 2025 &ensp; 🔥 One paper is accepted by TKDE 2025. </p>
 <p align="left">May, 2025 &ensp; 🔥 Three papers are accepted by ACL 2025. </p>
@@ -35,7 +36,10 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 <p align="left">May, 2023 &ensp; 🔥 One paper "KURIT-Net" is accepted by TNNLS 2023</p>
 <p align="left">Jul, 2021 &emsp; 🔥 One paper "GCFM" is accepted by TKDE 2021</p>
 
+
 <font face="Helvetica" color="Cadetblue" size=5pt >Recent and Selected Papers</font>
+<p align="left"><strong>Yongsen Zheng</strong>, Guohua Wang, Jinhui Qin, Ziliang Chen, Junfan Lin, Pengxu Wei, Liang Lin, Kwok-Yan Lam. “CIREC: Causal Intervention-Inspired Policy Learning to Mitigate Exposure Bias for Interactive Recommendation”, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
 <p align="left"><strong>Yongsen Zheng</strong>, Zongxuan Xie, Guohua Wang, Ziyao Liu, Liang Lin, Kwok-Yan Lam. “Why Multi-Interest Fairness Matters: Hypergraph Contrastive Multi-Interest Learning for Fair Conversational Recommender System”, Association for Computational Linguistic (ACL) 2025 <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
  
 <p align="left"><strong>Yongsen Zheng</strong>, Mingjie Qian, Guohua Wang, Yang Liu, Ziliang Chen, Mingzhi Mao, Liang Lin, Kwok-Yan Lam. “HyperCRS: Hypergraph-Aware Multi-Grained Preference Learning to Burst Filter Bubbles in Conversational Recommendation System”, Association for Computational Linguistic (ACL) 2025 <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
