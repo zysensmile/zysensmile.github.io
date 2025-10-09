@@ -20,7 +20,8 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>
 <p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by TKDE 2025. </p>
-<p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by NeurIPS 2025. </p>
+<p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by NeurIPS 2025 (Mechanistic Interpretability Workshop). </p>
+<p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by NeurIPS 2025 (Main Research Track). </p>
 <p align="left">Jun, 2025 &ensp; 🔥 One paper is accepted by TKDE 2025. </p>
 <p align="left">May, 2025 &ensp; 🔥 Three papers are accepted by ACL 2025. </p>
 <p align="left">May, 2025 &ensp; 🔥 One paper "AlphaAgent" is accepted by KDD 2025. </p>
@@ -35,7 +36,6 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 <p align="left">Jul, 2023 &emsp; 🔥 One paper "CIPL" is accepted by TNNLS 2023</p>
 <p align="left">May, 2023 &ensp; 🔥 One paper "KURIT-Net" is accepted by TNNLS 2023</p>
 <p align="left">Jul, 2021 &emsp; 🔥 One paper "GCFM" is accepted by TKDE 2021</p>
-
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Recent and Selected Papers</font>
 <p align="left"><strong>Yongsen Zheng</strong>, Guohua Wang, Jinhui Qin, Ziliang Chen, Junfan Lin, Pengxu Wei, Liang Lin, Kwok-Yan Lam. “CIREC: Causal Intervention-Inspired Policy Learning to Mitigate Exposure Bias for Interactive Recommendation”, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
@@ -79,6 +79,12 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 <p align="left">Weixing Chen, Yang Liu, Binglin Chen, Jiandong Su, <strong>Yongsen Zheng</strong>, Liang Lin. “Cross-modal Causal Relation Alignment for Video Question Grounding”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Ziliang Chen, <strong>Yongsen Zheng</strong>, Zhao-Rong Lai, Quanlong Guan, Liang Lin. “Diagnosing and Rectifying Fake OOD Invariance: A Restructured Causal Approach”, Proc. of AAAI Conference on Artificial Intelligence (AAAI), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
+<p align="left">Clement Neo, <strong>Yongsen Zheng</strong>, Kwok-Yan Lam, Luke Ong. “Interpreting Vision Grounding in Vision-Language Models: A Case Study in Coordinate Prediction”, Mechanistic Interpretability Workshop at Neural Information Processing Systems (NeurIPS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
+
+
+
 
 
 
