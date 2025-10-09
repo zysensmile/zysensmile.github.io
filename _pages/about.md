@@ -20,7 +20,7 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>  
 <p align="left">Sep, 2025 &ensp; 🔥 One paper "CIREC" is accepted by TKDE 2025. </p>
-<p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by Mechanistic Interpretability Workshop at NeurIPS 2025. </p>
+<p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by NeurIPS 2025 (Mechanistic Interpretability Workshop). </p>
 <p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by NeurIPS 2025 (Main Research Track). </p>
 <p align="left">Jun, 2025 &ensp; 🔥 One paper "ODMixer" is accepted by TKDE 2025. </p>
 <p align="left">May, 2025 &ensp; 🔥 Three papers are accepted by ACL 2025. </p>
