@@ -19,7 +19,7 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 <p>Human-AI Dialogue System, Conversational Recommender System, Natural Language Processing, Trustworthy AI, AI Safety, Large Language Models, and Causal Reasoning.</p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>  
-<p align="left">Oct, 2025 &ensp; 🔥 I will serve as an <strong>Area Chair</strong> of the ACL ARR 2025. </p>
+<p align="left">Oct, 2025 &ensp; 🔥 I am honored to serve as an <strong>Area Chair</strong> for ACL ARR 2025.</p>
 <p align="left">Sep, 2025 &ensp; 🔥 One paper "CIREC" is accepted by TKDE 2025. </p>
 <p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by NeurIPS 2025 (Mechanistic Interpretability Workshop). </p>
 <p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by NeurIPS 2025 (Main Research Track). </p>
