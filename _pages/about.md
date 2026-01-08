@@ -72,11 +72,9 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 
 <p align="left">Clement Neo, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam, Luke Ong. “Interpreting Vision Grounding in Vision-Language Models: A Case Study in Coordinate Prediction”, Mechanistic Interpretability Workshop at Neural Information Processing Systems (NeurIPS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
+<p align="left">Chen Chen, Yuchen Sun, Jiaxin Gao, Xueluan Gong, Qian Wang, Ziyao Liu, <strong>Yongsen Zheng</strong>, Kwok-Yan Lam. “Lethe: Purifying Backdoored Large Language Models with Knowledge Dilution”, The 35th USENIX Security Symposium (USENIX Security ’26). <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
 <p align="left">Ziliang Chen, <strong>Yongsen Zheng</strong>, Zhao-Rong Lai, Zhanfu Yang, Cuixi Li, Yang Liu, Liang Lin. “Quadratic Coreset Selection: Certifying and Reconciling Sequence and Token Mining for Efficient Instruction Tuning”, Proc. of Neural Information Processing Systems (NeurIPS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
-
-<p align="left">Ziliang Chen, <strong>Yongsen Zheng</strong>, Zhao-Rong Lai, Quanlong Guan, Liang Lin. “Diagnosing and Rectifying Fake OOD Invariance: A Restructured Causal Approach”, Proc. of AAAI Conference on Artificial Intelligence (AAAI), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
-
-<p align="left">Mingjie Qian*, <strong>Yongsen Zheng</strong>*, Jinghui Qin, Liang Lin. “HutCRS: Hierarchical User-Interest Tracking for Conversational Recommender System”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Yang Liu, Binglin Chen, <strong>Yongsen Zheng</strong>, Lechao Cheng, Guanbin Li, Liang Lin. “ODMixer: Fine-grained Spatial-temporal MLP for Metro Origin-Destination Prediction”, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
@@ -84,10 +82,9 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 
 <p align="left">Weixing Chen, Yang Liu, Binglin Chen, Jiandong Su, <strong>Yongsen Zheng</strong>, Liang Lin. “Cross-modal Causal Relation Alignment for Video Question Grounding”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
+<p align="left">Ziliang Chen, <strong>Yongsen Zheng</strong>, Zhao-Rong Lai, Quanlong Guan, Liang Lin. “Diagnosing and Rectifying Fake OOD Invariance: A Restructured Causal Approach”, Proc. of AAAI Conference on Artificial Intelligence (AAAI), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-
-
-
+<p align="left">Mingjie Qian*, <strong>Yongsen Zheng</strong>*, Jinghui Qin, Liang Lin. “HutCRS: Hierarchical User-Interest Tracking for Conversational Recommender System”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 
 
