@@ -20,7 +20,8 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Academic Services</font>
-<strong>Area Chair</strong>: ACL ARR (Otc 2025)
+<p align="left"><strong>Area Chair</strong>ACL ARR (Otc 2025)</p>
+<p align="left"><strong>Reviewer</strong>T</p>
 
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>  
