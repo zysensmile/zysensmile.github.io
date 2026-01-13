@@ -90,9 +90,18 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 <font face="Helvetica" color="Cadetblue" size=5pt >Academic Services</font>
 <p align="left"><strong>Area Chair</strong></p>
 <ul style="margin-left:1.2em;">
-  <li>XXX</li>
-  <li>xxXXX</li>
-  <li>xx</li>
+  <li>ACL ARR (Otc 2025)</li>
+</ul>
+<p align="left"><strong>Reviewer</strong></p>
+<ul style="margin-left:1.2em;">
+  <li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
+  <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</li>
+  <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
+  <li>IEEE Transactions on Multimedia (TMM)</li>  
+  <li>Neural Information Processing Systems Conference (NeurIPS)</li>
+  <li>International Conference on Machine Learning (ICML)</li>
+  <li>International Conference on Learning Representations (ICLR)</li>
+  <li>AAAI Conference on Artificial Intelligence (AAAI) </li>
 </ul>
 
 
