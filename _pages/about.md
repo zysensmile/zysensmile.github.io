@@ -18,12 +18,6 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 <font face="Helvetica" color="Cadetblue" size=5pt >Research Interests</font>
 <p>Human-Conversational Recommender System, Agentic AI, Natural Language Processing, Trustworthy AI, AI Safety, Large Language Models, and Causal Reasoning.</p>
 
-
-<font face="Helvetica" color="Cadetblue" size=5pt >Academic Services</font>
-<p align="left"><strong>Area Chair</strong>ACL ARR (Otc 2025)</p>
-<p align="left"><strong>Reviewer</strong>T</p>
-
-
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>  
 <p align="left">Dec, 2025 &ensp; 🔥 One paper "Lethe" is accepted by USENIX Security ’26 </p>
 <p align="left">Oct, 2025 &ensp; 🔥 I am honored to serve as an <strong>Area Chair</strong> for ACL ARR 2025.</p>
@@ -93,6 +87,13 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 <p align="left">Mingjie Qian*, <strong>Yongsen Zheng</strong>*, Jinghui Qin, Liang Lin. “HutCRS: Hierarchical User-Interest Tracking for Conversational Recommender System”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 
+<font face="Helvetica" color="Cadetblue" size=5pt >Academic Services</font>
+<p align="left"><strong>Area Chair</strong></p>
+<ul style="margin-left:1.2em;">
+  <li>XXX</li>
+  <li>xxXXX</li>
+  <li>xx</li>
+</ul>
 
 
 
