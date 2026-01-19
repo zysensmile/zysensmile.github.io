@@ -23,8 +23,7 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 <p align="left">Dec, 2025 &ensp; 🔥 One paper "Lethe" is accepted by USENIX Security '26. </p>
 <p align="left">Oct, 2025 &ensp; 🔥 I am honored to serve as an <strong>Area Chair</strong> for ACL ARR 2025.</p>
 <p align="left">Sep, 2025 &ensp; 🔥 One paper "CIREC" is accepted by TKDE 2025. </p>
-<p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by NeurIPS 2025 (Mechanistic Interpretability Workshop). </p>
-<p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by NeurIPS 2025 (Main Research Track). </p>
+<p align="left">Sep, 2025 &ensp; 🔥 Two papers are accepted by NeurIPS 2025. </p>
 <p align="left">Jun, 2025 &ensp; 🔥 One paper "ODMixer" is accepted by TKDE 2025. </p>
 <p align="left">May, 2025 &ensp; 🔥 Three papers are accepted by ACL 2025. </p>
 <p align="left">May, 2025 &ensp; 🔥 One paper "AlphaAgent" is accepted by KDD 2025. </p>
