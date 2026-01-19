@@ -19,7 +19,8 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 <p>Human-Conversational Recommender System, Agentic AI, Natural Language Processing, Trustworthy AI, AI Safety, Large Language Models, and Causal Reasoning.</p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>  
-<p align="left">Dec, 2025 &ensp; 🔥 One paper "Lethe" is accepted by USENIX Security ’26 </p>
+<p align="left">Jan, 2026 &ensp; 🔥 Two papers are accepted by IEEE ICASSP 2026. </p>
+<p align="left">Dec, 2025 &ensp; 🔥 One paper "Lethe" is accepted by USENIX Security '26. </p>
 <p align="left">Oct, 2025 &ensp; 🔥 I am honored to serve as an <strong>Area Chair</strong> for ACL ARR 2025.</p>
 <p align="left">Sep, 2025 &ensp; 🔥 One paper "CIREC" is accepted by TKDE 2025. </p>
 <p align="left">Sep, 2025 &ensp; 🔥 One paper is accepted by NeurIPS 2025 (Mechanistic Interpretability Workshop). </p>
@@ -63,6 +64,8 @@ Personalized Knowledge-Aware Recommendation”, IEEE Transactions on Neural Netw
 <p align="left"><strong>Yongsen Zheng</strong>, Pengxu Wei, Ziliang Chen, Yang Cao, Liang Lin. “Graph-Convolved Factorization Machines for
 Personalized Recommendation”, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
+<p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Ye Ma, Guohua Wang, Liang Lin, Kwok-Yan Lam. “Diversity is All You Need: Self-Supervised Hypergraph Learning for Mitigating Popularity Bias in Conversational Recommender System”, IEEE International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASSP), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
 <p align="left">Ziyao Liu, Huanyi Ye, Chen Chen, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam. “Threats, Attacks, and Defenses in
 Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE OJCS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
@@ -71,6 +74,8 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 <p align="left">Xin Jin, Wu Zhou, Jinyu Wang, Duo Xu, <strong>Yongsen Zheng</strong>✉. “An Order-Complexity Aesthetic Assessment Model for Aesthetic-aware Music Recommendation”, Proc. of ACM International Conference on Multimedia (ACM MM), 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Clement Neo, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam, Luke Ong. “Interpreting Vision Grounding in Vision-Language Models: A Case Study in Coordinate Prediction”, Mechanistic Interpretability Workshop at Neural Information Processing Systems (NeurIPS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
+<p align="left">Yu Jiang, Hanli Peng, <strong>Yongsen Zheng</strong>, Ziyao Liu, Kwok-Yan Lam, Chee Wei Tan. “Enhancing Risk Awareness in LLM Agents via Probing Safety Boundaries”, IEEE International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASSP), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Chen Chen, Yuchen Sun, Jiaxin Gao, Xueluan Gong, Qian Wang, Ziyao Liu, <strong>Yongsen Zheng</strong>, Kwok-Yan Lam. “Lethe: Purifying Backdoored Large Language Models with Knowledge Dilution”, The 35th USENIX Security Symposium (USENIX Security ’26). <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
