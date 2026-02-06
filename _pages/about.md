@@ -95,8 +95,7 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 <font face="Helvetica" color="Cadetblue" size=5pt >Academic Services</font>
 <p align="left"><strong>Workshops</strong></p>
 <ul style="margin-left:0em;">
-  <li>Primary organizer for 1st Workshop and Challenges on Low-Level Vision Frontiers with <strong>Generative AI
-</strong>, <strong>Preference Optimization</strong>, <strong>Agentic Systems</strong> at CVPR 2026. <a href="https://lovif-cvpr2026-workshop.github.io/#organizers">(LoViF@CVPR26)</a> </li>
+  <li>Primary organizer for 1st Workshop and Challenges on Low-Level Vision Frontiers with Generative AI, Preference Optimization, Agentic Systems at CVPR 2026 <a href="https://lovif-cvpr2026-workshop.github.io/#organizers">(LoViF@CVPR26)</a>.</li>
 </ul>
 
 <p align="left"><strong>Area Chair</strong></p>
