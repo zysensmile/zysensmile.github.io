@@ -95,10 +95,8 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 <font face="Helvetica" color="Cadetblue" size=5pt >Academic Services</font>
 <p align="left"><strong>Workshops</strong></p>
 <ul style="margin-left:0em;">
-  <li>Primary organizer for 1st Workshop and Challenges on Low-Level Vision Frontiers at CVPR 2026 (LoViF@CVPR26). </li>
-  <a href="https:https://lovif-cvpr2026-workshop.github.io/#organizers">LoViF@CVPR26</a>
+  <li>Primary organizer for 1st Workshop and Challenges on Low-Level Vision Frontiers at CVPR 2026 (LoViF@CVPR26)<a href="https:https://lovif-cvpr2026-workshop.github.io/#organizers">LoViF@CVPR26</a>. </li>
 </ul>
-<img src="path/to/your/image.jpg" alt="Description of the image" style="max-width:100%; height:auto;">
 
 <p align="left"><strong>Area Chair</strong></p>
 <ul style="margin-left:0em;">
