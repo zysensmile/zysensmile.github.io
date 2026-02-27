@@ -19,6 +19,7 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 <p>Human-Conversational Recommender System, Agentic AI, Natural Language Processing, Trustworthy AI, AI Safety, Large Language Models, and Causal Reasoning.</p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>  
+<p align="left">Feb, 2026 &ensp; 🔥 Two papers are accepted by CVPR 2026. </p>
 <p align="left">Jan, 2026 &ensp; 🔥 Four papers are accepted by ICLR 2026. </p>
 <p align="left">Jan, 2026 &ensp; 🔥 Two papers are accepted by IEEE ICASSP 2026. </p>
 <p align="left">Dec, 2025 &ensp; 🔥 One paper "Lethe" is accepted by USENIX Security '26. </p>
