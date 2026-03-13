@@ -48,7 +48,7 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
  
 <p align="left"><strong>Yongsen Zheng</strong>, Mingjie Qian, Guohua Wang, Yang Liu, Ziliang Chen, Mingzhi Mao, Liang Lin, Kwok-Yan Lam. “HyperCRS: Hypergraph-Aware Multi-Grained Preference Learning to Burst Filter Bubbles in Conversational Recommendation System”, Association for Computational Linguistic (ACL) 2025 <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-<p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Guohua Wang, Liang Lin, Kwok-Yan Lam. “Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p> (<font face="Helvetica" color="red">Oral</font>)</p>
+<p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Guohua Wang, Liang Lin, Kwok-Yan Lam. “Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a>(<font face="Helvetica" color="red">Oral</font>)</p>
 
 <p align="left"><strong>Yongsen Zheng</strong>, Guohua Wang, Yang Liu, Liang Lin. “Diversity Matters: User-Centric Multi-Interest Learning for
 Conversational Movie Recommendation”, Proc. of ACM International Conference on Multimedia (ACM MM), 2024. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
