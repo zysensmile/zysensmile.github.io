@@ -48,12 +48,12 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
  
 <p align="left"><strong>Yongsen Zheng</strong>, Mingjie Qian, Guohua Wang, Yang Liu, Ziliang Chen, Mingzhi Mao, Liang Lin, Kwok-Yan Lam. “HyperCRS: Hypergraph-Aware Multi-Grained Preference Learning to Burst Filter Bubbles in Conversational Recommendation System”, Association for Computational Linguistic (ACL) 2025 <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-<p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Guohua Wang, Liang Lin, Kwok-Yan Lam. “Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+<p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Guohua Wang, Liang Lin, Kwok-Yan Lam. “Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p> (<font face="Helvetica" color="red">Oral</font>)</p>
 
 <p align="left"><strong>Yongsen Zheng</strong>, Guohua Wang, Yang Liu, Liang Lin. “Diversity Matters: User-Centric Multi-Interest Learning for
 Conversational Movie Recommendation”, Proc. of ACM International Conference on Multimedia (ACM MM), 2024. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
 
-<p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Ziliang Chen, Guohua Wang, Mingjie Qian, Jinghui Qin, Liang Lin. “HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation”, Proc. of the Association for Computational Linguistics (ACL), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+<p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Ziliang Chen, Guohua Wang, Mingjie Qian, Jinghui Qin, Liang Lin. “HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation”, Proc. of the Association for Computational Linguistics (ACL), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p> (<font face="Helvetica" color="red">Oral</font>)</p>
 
 <p align="left"><strong>Yongsen Zheng</strong>, Ziliang Chen, Jinghui Qin, Liang Lin. “FacetCRS: Multi-Faceted Preference Learning for Pricking Filter Bubbles in Conversational Recommender System”, Proc. of AAAI Conference on Artificial Intelligence (AAAI), 2024. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
@@ -65,7 +65,7 @@ Personalized Knowledge-Aware Recommendation”, IEEE Transactions on Neural Netw
 <p align="left"><strong>Yongsen Zheng</strong>, Pengxu Wei, Ziliang Chen, Yang Cao, Liang Lin. “Graph-Convolved Factorization Machines for
 Personalized Recommendation”, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-<p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Ye Ma, Guohua Wang, Liang Lin, Kwok-Yan Lam. “Diversity is All You Need: Self-Supervised Hypergraph Learning for Mitigating Popularity Bias in Conversational Recommender System”, IEEE International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASSP), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+<p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Ye Ma, Guohua Wang, Liang Lin, Kwok-Yan Lam. “Diversity is All You Need: Self-Supervised Hypergraph Learning for Mitigating Popularity Bias in Conversational Recommender System”, IEEE International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASSP), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p> (<font face="Helvetica" color="red">Oral</font>)</p>
 
 <p align="left">Ziyao Liu, Huanyi Ye, Chen Chen, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam. “Threats, Attacks, and Defenses in
 Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE OJCS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
