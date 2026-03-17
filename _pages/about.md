@@ -11,7 +11,7 @@ redirect_from:
 I am currently a Research Fellow in the College of Computing and Data Science at the Nanyang Technological University (NTU), Singapore, and also at the National Centre for Research in Digital Trust, Singapore (Digital Trust Centre Singapore (DTC)) as well as at the Singapore AI Safety Institute (AISI), working with <a href="https://personal.ntu.edu.sg/kwokyan.lam/">Prof. Kwok-Yan Lam</a>. Prior to that, I obtained my Ph.D. degree in the School of Computer Science and Engineering at Sun Yat-sen University, advised by IEEE Fellow <a href="http://www.linliang.net/">Prof. Liang Lin</a> in <a href="https://www.sysu-hcp.net/home/">HCP-I2 Lab</a>. 
 </p>
 
-<p align="left" style="font-family: Arial, sans-serif; font-size: 20px; line-height: 1.6; color: #333;">
+<p align="left">
 I also possess a wealth of experience in the corporate world, including:
 <ul>
   <li>Interned at <a href="https://www.huawei.com/cn/?ic_medium=direct&ic_source=surlent">Huawei</a> 🔥</li>
