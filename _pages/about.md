@@ -12,10 +12,6 @@ I am currently a Research Fellow in the College of Computing and Data Science at
 </p>
 
 <p align="left" style="font-family: Arial, sans-serif; font-size: 20px; line-height: 1.6; color: #333;">
-I also possess a wealth of experience in the corporate world. Concretely, I have ever interned at <a href="https://www.huawei.com/cn/?ic_medium=direct&ic_source=surlent">Huawei</a>🔥, worked at <a href="https://www.tencent.com/en-us/">Tencent</a>🔥, and served as a senior technical consultant at <a href="https://www.sensetime.com/en">SenseTime</a>🔥.
-</p>
-
-<p align="left">
 I also possess a wealth of experience in the corporate world, including:
 <ul>
   <li>Interned at <a href="https://www.huawei.com/cn/?ic_medium=direct&ic_source=surlent">Huawei</a> 🔥</li>
