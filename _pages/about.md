@@ -21,7 +21,7 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>  
 <p align="left">April, 2026 &ensp; 🔥 One paper "Spectra" is accepted by ACL 2026. </p>
-<p align="left">April, 2026 &ensp; 🔥 I am honored to serve as an <strong>Session Chair</strong> for ICASSP 2026. </p>
+<p align="left">April, 2026 &ensp; 🔥 I am honored to serve as an <strong>Session Chair (Oral Session)</strong> for ICASSP 2026. </p>
 <p align="left">Feb, 2026 &ensp; 🔥 Two papers are accepted by CVPR 2026. (<font face="Helvetica" color="red">One Highlight</font>)</p>
 <p align="left">Jan, 2026 &ensp; 🔥 Four papers are accepted by ICLR 2026. </p>
 <p align="left">Jan, 2026 &ensp; 🔥 Two papers are accepted by IEEE ICASSP 2026. (<font face="Helvetica" color="red">Both Oral</font>)</p>
@@ -118,6 +118,15 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 <ul style="margin-left:0em;">
   <li>ACL ARR (Otc 2025)</li>
 </ul>
+
+<p align="left"><strong>Session Chair</strong></p>
+<ul style="margin-left:0em;">
+  <li>ICASSP 2026</li>
+  <li>Session: MLSP-L25: Trustworthy Learning for Large Language Models</li>
+  <li>Session Type: Oral</li>
+  <li>Session Time: Thu, 7 May, 16:30 - 18:30 Central European Time</li>
+</ul>
+
 <p align="left"><strong>Reviewer</strong></p>
 <ul style="margin-left:0em;">
   <li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
