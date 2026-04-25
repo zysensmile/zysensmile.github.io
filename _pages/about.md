@@ -80,11 +80,11 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 
 <p align="left">Clement Neo, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam, Luke Ong. “Interpreting Vision Grounding in Vision-Language Models: A Case Study in Coordinate Prediction”, Mechanistic Interpretability Workshop at Neural Information Processing Systems (NeurIPS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-<p align="left">Ziyi Tang, Xuexiong Yin, Weixing Chen, Zechuan Chen, <strong>Yongsen Zheng</strong>, Wenxuan Ye, Keze Wang, Liang Lin. “AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning”, The Fourteenth International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
-
 <p align="left">Zhao-Rong Lai, Xiwen Yuan, Ziliang Chen, Liangda Fang, <strong>Yongsen Zheng</strong>. “A Unified Total Variation Framework for Membrane Potential Perturbation Dynamic”, The Fourteenth International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Zhao-Rong Lai, Zheng-Sen Zhou, Liangda Fang, <strong>Yongsen Zheng</strong>, Ziliang Chen. “ℓ1 Latent Distance based Continuous-time Graph Representation”, The Fourteenth International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
+
+<p align="left">Ziyi Tang, Xuexiong Yin, Weixing Chen, Zechuan Chen, <strong>Yongsen Zheng</strong>, Wenxuan Ye, Keze Wang, Liang Lin. “AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning”, The Fourteenth International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Ziliang Chen, Yulu Li, Liangda Fang, Jusheng Zhang, <strong>Yongsen Zheng</strong>, Quanlong Guan, Xipeng Chen. “Vocabulary Scaling Law : Tuning Open-vocabulary Predictors for Their Openness”, Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
 
