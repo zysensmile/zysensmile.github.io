@@ -31,7 +31,7 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 <p align="left">Jun, 2025 &ensp; 🔥 One paper "ODMixer" is accepted by TKDE 2025. </p>
 <p align="left">May, 2025 &ensp; 🔥 Three papers are accepted by ACL 2025. </p>
 <p align="left">May, 2025 &ensp; 🔥 One paper "AlphaAgent" is accepted by KDD 2025. </p>
-<p align="left">Feb, 2025 &ensp; 🔥 One paper "CRA" is accepted by CVPR 2025. (<font face="Helvetica" color="red">Highlight</font>)</p>
+<p align="left">Feb, 2025 &ensp; 🔥 One paper "CRA-GQA" is accepted by CVPR 2025. (<font face="Helvetica" color="red">Highlight</font>)</p>
 <p align="left">Feb, 2025 &ensp; 🔥 One paper "Machine Unlearning Survey" is accepted by IEEE OJCS 2025. </p>
 <p align="left">Sep, 2024 &ensp; 🔥 One paper "HiCore" is accepted by EMNLP 2024. (<font face="Helvetica" color="red">Oral</font>)</p>
 <p align="left">Jul, 2024 &emsp; 🔥 One paper "CoMoRec" is accepted by ACM MM 2024.</p>
