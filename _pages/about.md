@@ -20,9 +20,10 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 <p>Human-Conversational Recommender System, Agentic AI, Natural Language Processing, Trustworthy AI, AI Safety, Large Language Models, and Causal Reasoning.</p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>  
-<p align="left">Feb, 2026 &ensp; 🔥 Two papers are accepted by CVPR 2026. </p>
+<p align="left">April, 2026 &ensp; 🔥 One paper "Spectra" is accepted by ACL 2026. </p>
+<p align="left">Feb, 2026 &ensp; 🔥 Two papers are accepted by CVPR 2026. (One Highlight)</p>
 <p align="left">Jan, 2026 &ensp; 🔥 Four papers are accepted by ICLR 2026. </p>
-<p align="left">Jan, 2026 &ensp; 🔥 Two papers are accepted by IEEE ICASSP 2026. (<font face="Helvetica" color="red">Oral</font>)</p>
+<p align="left">Jan, 2026 &ensp; 🔥 Two papers are accepted by IEEE ICASSP 2026. (<font face="Helvetica" color="red">Both Oral</font>)</p>
 <p align="left">Dec, 2025 &ensp; 🔥 One paper "Lethe" is accepted by USENIX Security '26. </p>
 <p align="left">Oct, 2025 &ensp; 🔥 I am honored to serve as an <strong>Area Chair</strong> for ACL ARR (Otc 2025). </p>
 <p align="left">Sep, 2025 &ensp; 🔥 One paper "CIREC" is accepted by TKDE 2025. </p>
