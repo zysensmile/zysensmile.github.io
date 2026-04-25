@@ -123,8 +123,11 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 
 <p align="left"><strong>Session Chair</strong></p>
 <ul style="margin-left:0em;">
-  <li>ICASSP 2026</li>
-<li> <div>Session: MLSP-L25: Trustworthy Learning for Large Language Models</div> <div>Session Type: Oral</div> <div>Session Time: Thu, 7 May, 16:30 - 18:30 Central European Time</div> </li>
+  <li> ICASSP 2026
+  <div>Session: MLSP-L25: Trustworthy Learning for Large Language Models</div> 
+  <div>Session Type: Oral</div> 
+  <div>Session Time: Thu, 7 May, 16:30 - 18:30 Central European Time</div> 
+  </li>
 </ul>
 
 <p align="left"><strong>Reviewer</strong></p>
