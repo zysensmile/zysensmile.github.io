@@ -97,7 +97,7 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 
 <p align="left">Chen Chen, Yuchen Sun, Jiaxin Gao, Xueluan Gong, Qian Wang, Ziyao Liu, <strong>Yongsen Zheng</strong>, Kwok-Yan Lam. “Lethe: Purifying Backdoored Large Language Models with Knowledge Dilution”, The 35th USENIX Security Symposium (USENIX Security ’26). <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-<p align="left">Duo Xu, <strong>Yongsen Zheng</strong>, Xin Jin, Leyi Zhao, Changyin Sun. “MusReco: A New Transformer-Enhanced Paradigm of Music Recommendation”, Tsinghua Science and Technology. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
+<p align="left">Duo Xu, <strong>Yongsen Zheng</strong>, Xin Jin, Leyi Zhao, Changyin Sun. “MusReco: A New Transformer-Enhanced Paradigm of Music Recommendation”, Tsinghua Science and Technology, 2026.<a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Ziliang Chen, <strong>Yongsen Zheng</strong>, Zhao-Rong Lai, Zhanfu Yang, Cuixi Li, Yang Liu, Liang Lin. “Quadratic Coreset Selection: Certifying and Reconciling Sequence and Token Mining for Efficient Instruction Tuning”, Proc. of Neural Information Processing Systems (NeurIPS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
