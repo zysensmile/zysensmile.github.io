@@ -72,6 +72,8 @@ Personalized Recommendation”, IEEE Transactions on Knowledge and Data Engineer
 
 <p align="left">Chin Yuen Kwok, <strong>Yongsen Zheng</strong>✉, Jia Qi Yip, Kwok-Yan Lam, Eng Siong Chng. “SumRA: Parameter Efficient Fine-tuning with Singular Value Decomposition and Summed Orthogonal Basis”, The Fourteenth International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
+<p align="left">Clement Neo, <strong>Yongsen Zheng</strong>, Kwok-Yan Lam, Luke Ong. “Spectra: A Mechanistic Interpretability Library for Vision-Language Models”, The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
 <p align="left">Ziyao Liu, Huanyi Ye, Chen Chen, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam. “Threats, Attacks, and Defenses in
 Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE OJCS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
