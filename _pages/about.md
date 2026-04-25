@@ -87,9 +87,9 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 
 <p align="left">Ziyi Tang, Xuexiong Yin, Weixing Chen, Zechuan Chen, <strong>Yongsen Zheng</strong>, Wenxuan Ye, Keze Wang, Liang Lin. “AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning”, The Fourteenth International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
 
-<p align="left">Ziliang Chen, Yulu Li, Liangda Fang, Jusheng Zhang, <strong>Yongsen Zheng</strong>, Quanlong Guan, Xipeng Chen. “Vocabulary Scaling Law : Tuning Open-vocabulary Predictors for Their Openness”, Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
+<p align="left">Ziliang Chen, Yulu Li, Liangda Fang, Jusheng Zhang, <strong>Yongsen Zheng</strong>, Quanlong Guan, Xipeng Chen. “Vocabulary Scaling Law : Tuning Open-vocabulary Predictors for Their Openness”, Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a> (<font face="Helvetica" color="red">Highlight</font>)</p>
 
-<p align="left">Ziliang Chen, Tianang Xiao, Jusheng Zhang, <strong>Yongsen Zheng</strong>, Yang Liu, Zhao-Rong Lai, Liang Lin. “A Causal Marriage between VLM and IRM from Understanding to Reasoning”, Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a>(<font face="Helvetica" color="red">Highlight</font>)</p>
+<p align="left">Ziliang Chen, Tianang Xiao, Jusheng Zhang, <strong>Yongsen Zheng</strong>, Yang Liu, Zhao-Rong Lai, Liang Lin. “A Causal Marriage between VLM and IRM from Understanding to Reasoning”, Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Yu Jiang, Hanli Peng, <strong>Yongsen Zheng</strong>, Ziyao Liu, Kwok-Yan Lam, Chee Wei Tan. “Enhancing Risk Awareness in LLM Agents via Probing Safety Boundaries”, IEEE International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASSP), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a> (<font face="Helvetica" color="red">Oral</font>)</p>
 
