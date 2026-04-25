@@ -21,7 +21,7 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>  
 <p align="left">April, 2026 &ensp; 🔥 One paper "Spectra" is accepted by ACL 2026. </p>
-<p align="left">April, 2026 &ensp; 🔥 I am honored to serve as an <strong>Session Chair (Oral Session)</strong> for ICASSP 2026. </p>
+<p align="left">April, 2026 &ensp; 🔥 I am honored to serve as an <strong>Session Chair of Oral Session</strong> for ICASSP 2026. </p>
 <p align="left">Feb, 2026 &ensp; 🔥 Two papers are accepted by CVPR 2026. (<font face="Helvetica" color="red">One Highlight</font>)</p>
 <p align="left">Jan, 2026 &ensp; 🔥 Four papers are accepted by ICLR 2026. </p>
 <p align="left">Jan, 2026 &ensp; 🔥 Two papers are accepted by IEEE ICASSP 2026. (<font face="Helvetica" color="red">Both Oral</font>)</p>
