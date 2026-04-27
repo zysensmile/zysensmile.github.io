@@ -70,9 +70,9 @@ Personalized Recommendation”, IEEE Transactions on Knowledge and Data Engineer
 
 <p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Ye Ma, Guohua Wang, Liang Lin, Kwok-Yan Lam. “Diversity is All You Need: Self-Supervised Hypergraph Learning for Mitigating Popularity Bias in Conversational Recommender System”, IEEE International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASSP), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a> (<font face="Helvetica" color="red">Oral</font>)</p>
 
-<p align="left">Chin Yuen Kwok, <strong>Yongsen Zheng</strong>✉, Jia Qi Yip, Kwok-Yan Lam, Eng Siong Chng. “SumRA: Parameter Efficient Fine-tuning with Singular Value Decomposition and Summed Orthogonal Basis”, The Fourteenth International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+<p align="left">Chin Yuen Kwok, <strong>Yongsen Zheng</strong>✉, Jia Qi Yip, Kwok-Yan Lam, Eng Siong Chng. “SumRA: Parameter Efficient Fine-tuning with Singular Value Decomposition and Summed Orthogonal Basis”, Proc. of International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-<p align="left">Clement Neo, <strong>Yongsen Zheng</strong>, Kwok-Yan Lam, Luke Ong. “Spectra: A Mechanistic Interpretability Library for Vision-Language Models”, The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+<p align="left">Clement Neo, <strong>Yongsen Zheng</strong>, Kwok-Yan Lam, Luke Ong. “Spectra: A Mechanistic Interpretability Library for Vision-Language Models”, Proc. of Annual Meeting of the Association for Computational Linguistics (ACL), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Ziyao Liu, Huanyi Ye, Chen Chen, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam. “Threats, Attacks, and Defenses in
 Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE OJCS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
@@ -83,15 +83,15 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 
 <p align="left">Clement Neo, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam, Luke Ong. “Interpreting Vision Grounding in Vision-Language Models: A Case Study in Coordinate Prediction”, Mechanistic Interpretability Workshop at Neural Information Processing Systems (NeurIPS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-<p align="left">Zhao-Rong Lai, Xiwen Yuan, Ziliang Chen, Liangda Fang, <strong>Yongsen Zheng</strong>. “A Unified Total Variation Framework for Membrane Potential Perturbation Dynamic”, The Fourteenth International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
+<p align="left">Zhao-Rong Lai, Xiwen Yuan, Ziliang Chen, Liangda Fang, <strong>Yongsen Zheng</strong>. “A Unified Total Variation Framework for Membrane Potential Perturbation Dynamic”, Proc. of International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
 
-<p align="left">Zhao-Rong Lai, Zheng-Sen Zhou, Liangda Fang, <strong>Yongsen Zheng</strong>, Ziliang Chen. “ℓ1 Latent Distance based Continuous-time Graph Representation”, The Fourteenth International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
+<p align="left">Zhao-Rong Lai, Zheng-Sen Zhou, Liangda Fang, <strong>Yongsen Zheng</strong>, Ziliang Chen. “ℓ1 Latent Distance based Continuous-time Graph Representation”, Proc. of International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Ziyi Tang, Xuexiong Yin, Weixing Chen, Zechuan Chen, <strong>Yongsen Zheng</strong>, Wenxuan Ye, Keze Wang, Liang Lin. “AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning”, The Fourteenth International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
 
-<p align="left">Ziliang Chen, Yulu Li, Liangda Fang, Jusheng Zhang, <strong>Yongsen Zheng</strong>, Quanlong Guan, Xipeng Chen. “Vocabulary Scaling Law : Tuning Open-vocabulary Predictors for Their Openness”, Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a> (<font face="Helvetica" color="red">Highlight</font>)</p>
+<p align="left">Ziliang Chen, Yulu Li, Liangda Fang, Jusheng Zhang, <strong>Yongsen Zheng</strong>, Quanlong Guan, Xipeng Chen. “Vocabulary Scaling Law : Tuning Open-vocabulary Predictors for Their Openness”, Proc. of Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a> (<font face="Helvetica" color="red">Highlight</font>)</p>
 
-<p align="left">Ziliang Chen, Tianang Xiao, Jusheng Zhang, <strong>Yongsen Zheng</strong>, Yang Liu, Zhao-Rong Lai, Liang Lin. “A Causal Marriage between VLM and IRM from Understanding to Reasoning”, Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
+<p align="left">Ziliang Chen, Tianang Xiao, Jusheng Zhang, <strong>Yongsen Zheng</strong>, Yang Liu, Zhao-Rong Lai, Liang Lin. “A Causal Marriage between VLM and IRM from Understanding to Reasoning”, Proc. of Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Yu Jiang, Hanli Peng, <strong>Yongsen Zheng</strong>, Ziyao Liu, Kwok-Yan Lam, Chee Wei Tan. “Enhancing Risk Awareness in LLM Agents via Probing Safety Boundaries”, IEEE International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASSP), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a> (<font face="Helvetica" color="red">Oral</font>)</p>
 
