@@ -147,10 +147,15 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
   <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</li>
   <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
   <li>IEEE Transactions on Multimedia (TMM)</li>  
+  <li>IEEE Transactions on Multimedia (TIP)</li>  
+  <li>IEEE Transactions on Dependable and Secure Computing(TDSC)</li>  
+  <li>IEEE Transactions on Information Forensics and Security(TIFS)</li>  
   <li>Neural Information Processing Systems Conference (NeurIPS)</li>
   <li>International Conference on Machine Learning (ICML)</li>
   <li>International Conference on Learning Representations (ICLR)</li>
   <li>AAAI Conference on Artificial Intelligence (AAAI) </li>
+  <li>ACM International Conference on Multimedia (ACM MM) </li>
+  <li>ACL Rolling Review (ACL, EMNLP, NAACL)</li>
 </ul>
 
 
