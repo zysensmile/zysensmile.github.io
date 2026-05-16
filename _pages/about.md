@@ -84,6 +84,10 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 
 <p align="left">Clement Neo, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam, Luke Ong. “Interpreting Vision Grounding in Vision-Language Models: A Case Study in Coordinate Prediction”, Mechanistic Interpretability Workshop at Neural Information Processing Systems (NeurIPS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
+<p align="left">Jusheng Zhang, Jing Yang, Kaitong Cai, Ziliang Chen, <strong>Yongsen Zheng</strong>, Kwok-Yan Lam, Liang Lin, Keze Wang. “Failure-Driven Workflow Refinement”, Proc. of International Conference on Machine Learning (ICML), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
+
+<p align="left">Jusheng Zhang, Yijia Fan, Ruiqi Chen, Jing Yang, Ziliang Chen, <strong>Yongsen Zheng</strong>, Yanxi Chen, Jian Wang, Kwok-Yan Lam, Liang Lin, Keze Wang. “SOLAR for Offline MARL: Plateau-Triggered Potential Shaping under World-Model Uncertainty”, Proc. of International Conference on Machine Learning (ICML), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
+
 <p align="left">Zhao-Rong Lai, Xiwen Yuan, Ziliang Chen, Liangda Fang, <strong>Yongsen Zheng</strong>. “A Unified Total Variation Framework for Membrane Potential Perturbation Dynamic”, Proc. of International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Zhao-Rong Lai, Zheng-Sen Zhou, Liangda Fang, <strong>Yongsen Zheng</strong>, Ziliang Chen. “ℓ1 Latent Distance based Continuous-time Graph Representation”, Proc. of International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
