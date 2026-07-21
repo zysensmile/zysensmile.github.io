@@ -20,6 +20,7 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 <p>Human-Conversational Recommender System, Agentic AI, Natural Language Processing, Trustworthy AI, AI Safety, Large Language Models, and Causal Reasoning.</p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Latest News</font>  
+<p align="left">Jul, 2026 &ensp; 🔥 One paper "AdaPrompt" is accepted by TKDE 2026. </p>
 <p align="left">May, 2026 &ensp; 🔥 Two papers are accepted by ICML 2026. (<font face="Helvetica" color="red">One Spotlight</font>) [Top 2.2%]</p>
 <p align="left">April, 2026 &ensp; 🔥 One paper "Spectra" is accepted by ACL 2026. </p>
 <p align="left">April, 2026 &ensp; 🔥 I am honored to serve as an <strong>Session Chair of Both Sessions</strong> for ICASSP 2026. </p>
@@ -46,6 +47,8 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 <p align="left">Jul, 2021 &emsp; 🔥 One paper "GCFM" is accepted by TKDE 2021</p>
 
 <font face="Helvetica" color="Cadetblue" size=5pt >Recent and Selected Papers</font>
+<p align="left"><strong>Yongsen Zheng</strong>, Guohua Wang, Jinhui Qin, Yang Liu, Liang Lin, Kwok-Yan Lam. “AdaPrompt: Adaptive Prompt Learning to Alleviate Semantic Inconsistency for Conversational Recommendation”, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
 <p align="left"><strong>Yongsen Zheng</strong>, Guohua Wang, Jinhui Qin, Ziliang Chen, Junfan Lin, Pengxu Wei, Liang Lin, Kwok-Yan Lam. “CIREC: Causal Intervention-Inspired Policy Learning to Mitigate Exposure Bias for Interactive Recommendation”, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left"><strong>Yongsen Zheng</strong>, Zongxuan Xie, Guohua Wang, Ziyao Liu, Liang Lin, Kwok-Yan Lam. “Why Multi-Interest Fairness Matters: Hypergraph Contrastive Multi-Interest Learning for Fair Conversational Recommender System”, Association for Computational Linguistic (ACL) 2025 <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
