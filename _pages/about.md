@@ -83,7 +83,7 @@ Personalized Recommendation”, IEEE Transactions on Knowledge and Data Engineer
 
 <p align="left">Kaiyu Zhou, <strong>Yongsen Zheng</strong>✉, Yicheng He, Meng Xue, Xueluan Gong, Yuji Wang, Xuanye Zhang, Kwok-Yan Lam. “Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-<p align="left">Hanli Peng, Ziyao Liu, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam. “RecoverAgent: Intent-Preserving Recovery from Indirect Prompt Injection in Tool-using LLM Agents”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+<p align="left">Hanli Peng, Ziyao Liu, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam. “RecoverAgent: Intent-Preserving Recovery from Indirect Prompt Injection in Tool-using LLM Agents”, Empirical Methods in Natural Language Processing (EMNLP), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Ziyao Liu, Huanyi Ye, Chen Chen, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam. “Threats, Attacks, and Defenses in
 Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE OJCS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
