@@ -77,7 +77,13 @@ Personalized Recommendation”, IEEE Transactions on Knowledge and Data Engineer
 
 <p align="left">Chin Yuen Kwok, <strong>Yongsen Zheng</strong>✉, Jia Qi Yip, Kwok-Yan Lam, Eng Siong Chng. “SumRA: Parameter Efficient Fine-tuning with Singular Value Decomposition and Summed Orthogonal Basis”, Proc. of International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
-<p align="left">Clement Neo, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam, Luke Ong. “Spectra: A Mechanistic Interpretability Library for Vision-Language Models”, Proc. of Annual Meeting of the Association for Computational Linguistics (ACL), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+<p align="left">Clement Neo, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam, Luke Ong. “Spectra: A Mechanistic Interpretability Library for Vision-Language Models”, Proc. of the Association for Computational Linguistics (ACL), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
+<p align="left">Kaiyu Zhou, <strong>Yongsen Zheng</strong>✉, Xuanye Zhang, Kwok-Yan Lam. “OrchDebate: Adaptive Orchestration for Multi-Agent Debate via Self-Evolving Skills”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
+<p align="left">Kaiyu Zhou, <strong>Yongsen Zheng</strong>✉, Yicheng He, Meng Xue, Xueluan Gong, Yuji Wang, Xuanye Zhang, Kwok-Yan Lam. “Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
+<p align="left">Hanli Peng, Ziyao Liu, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam. “RecoverAgent: Intent-Preserving Recovery from Indirect Prompt Injection in Tool-using LLM Agents”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Ziyao Liu, Huanyi Ye, Chen Chen, <strong>Yongsen Zheng</strong>✉, Kwok-Yan Lam. “Threats, Attacks, and Defenses in
 Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE OJCS), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
@@ -101,6 +107,8 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 <p align="left">Ziliang Chen, Yulu Li, Liangda Fang, Jusheng Zhang, <strong>Yongsen Zheng</strong>, Quanlong Guan, Xipeng Chen. “Vocabulary Scaling Law : Tuning Open-vocabulary Predictors for Their Openness”, Proc. of Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a> (<font face="Helvetica" color="red">Highlight</font>)</p>
 
 <p align="left">Ziliang Chen, Tianang Xiao, Jusheng Zhang, <strong>Yongsen Zheng</strong>, Yang Liu, Zhao-Rong Lai, Liang Lin. “A Causal Marriage between VLM and IRM from Understanding to Reasoning”, Proc. of Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
+
+<p align="left">Yue Chen, Yihao Wang, Ziyi Tang, <strong>Yongsen Zheng</strong>, Keze Wang. “How Do Document Parsers Break? Auditing Structural Vulnerability in Document Intelligence”, Proc. of Empirical Methods in Natural Language Processing (EMNLP), 2026. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left">Yu Jiang, Hanli Peng, <strong>Yongsen Zheng</strong>, Ziyao Liu, Kwok-Yan Lam, Chee Wei Tan. “Enhancing Risk Awareness in LLM Agents via Probing Safety Boundaries”, IEEE International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASSP), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a> (<font face="Helvetica" color="red">Oral</font>)</p>
 
