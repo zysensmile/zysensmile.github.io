@@ -53,6 +53,9 @@ I also possess a wealth of experience in the corporate world. Concretely, I have
 
 <p align="left"><strong>Yongsen Zheng</strong>, Guohua Wang, Jinhui Qin, Ziliang Chen, Junfan Lin, Pengxu Wei, Liang Lin, Kwok-Yan Lam. “CIREC: Causal Intervention-Inspired Policy Learning to Mitigate Exposure Bias for Interactive Recommendation”, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
+<p align="left"><strong>Yongsen Zheng</strong>, Pengxu Wei, Ziliang Chen, Yang Cao, Liang Lin. “Graph-Convolved Factorization Machines for
+Personalized Recommendation”, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
+
 <p align="left"><strong>Yongsen Zheng</strong>, Zongxuan Xie, Guohua Wang, Ziyao Liu, Liang Lin, Kwok-Yan Lam. “Why Multi-Interest Fairness Matters: Hypergraph Contrastive Multi-Interest Learning for Fair Conversational Recommender System”, Association for Computational Linguistic (ACL) 2025 <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
  
 <p align="left"><strong>Yongsen Zheng</strong>, Mingjie Qian, Guohua Wang, Yang Liu, Ziliang Chen, Mingzhi Mao, Liang Lin, Kwok-Yan Lam. “HyperCRS: Hypergraph-Aware Multi-Grained Preference Learning to Burst Filter Bubbles in Conversational Recommendation System”, Association for Computational Linguistic (ACL) 2025 <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
@@ -70,9 +73,6 @@ Conversational Movie Recommendation”, Proc. of ACM International Conference on
 
 <p align="left"><strong>Yongsen Zheng</strong>, Pengxu Wei, Ziliang Chen, Chengpei Tang, Liang Lin. “Routing User-Interest Markov Tree for Scalable
 Personalized Knowledge-Aware Recommendation”, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), DOI: 10.1109/TNNLS.2023.3276395, 2023. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
-
-<p align="left"><strong>Yongsen Zheng</strong>, Pengxu Wei, Ziliang Chen, Yang Cao, Liang Lin. “Graph-Convolved Factorization Machines for
-Personalized Recommendation”, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021. <a href="https:XXXX">[PDF]</a> <a href="https:XXXX">[CODE]</a></p>
 
 <p align="left"><strong>Yongsen Zheng</strong>, Ruilin Xu, Ye Ma, Guohua Wang, Liang Lin, Kwok-Yan Lam. “Diversity is All You Need: Self-Supervised Hypergraph Learning for Mitigating Popularity Bias in Conversational Recommender System”, IEEE International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASSP), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a> (<font face="Helvetica" color="red">Oral</font>)</p>
 
