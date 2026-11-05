@@ -106,6 +106,8 @@ Machine Unlearning: A Survey”, IEEE Open Journal of the Computer Society (IEEE
 
 <p align="left">Ziyi Tang, Xuexiong Yin, Weixing Chen, Zechuan Chen, <strong>Yongsen Zheng</strong>, Wenxuan Ye, Keze Wang, Liang Lin. “AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning”, The Fourteenth International Conference on Learning Representations (ICLR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
 
+<p align="left">Linru Zhang, Jun Jie Sim, Xiangning Wang, Jiahao Zhong, Kaiyu Zhou, Huanyi Ye, <strong>Yongsen Zheng</strong>, Lushan Song, Xiaojian Liang, Yingting Liu, Yujing Sun, HUAXIONG WANG, Pu Duan, Kwok-Yan Lam. “Felid: A Flexible and Efficient Design for Transformer Fine-Tuning over Encrypted Data”, The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
+
 <p align="left">Ziliang Chen, Yulu Li, Liangda Fang, Jusheng Zhang, <strong>Yongsen Zheng</strong>, Quanlong Guan, Xipeng Chen. “Vocabulary Scaling Law : Tuning Open-vocabulary Predictors for Their Openness”, Proc. of Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a> (<font face="Helvetica" color="red">Highlight</font>)</p>
 
 <p align="left">Ziliang Chen, Tianang Xiao, Jusheng Zhang, <strong>Yongsen Zheng</strong>, Yang Liu, Zhao-Rong Lai, Liang Lin. “A Causal Marriage between VLM and IRM from Understanding to Reasoning”, Proc. of Conference on Computer Vision and Pattern Recognition (CVPR), 2026. <a href="https:XXXX">[PDF]</a><a href="https:XXXX">[CODE]</a></p>
